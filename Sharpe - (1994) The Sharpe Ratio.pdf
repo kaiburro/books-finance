@@ -1,0 +1,5473 @@
+%PDF-1.3
+%âãÏÓ
+1 0 obj
+<<
+/Type /Pages
+/Count 19
+/Kids [ 3 0 R 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+/Title (The\040Sharpe\040Ratio)
+/Author (William\040F\056\040Sharpe)
+/Subject (\056\040Over\04025\040years\040ago\054\040in\040Sharpe\040\1331966\135\054\040I\040introduced\040a\040measure\040for\040the\040performance\040of\040mutual\040funds\040and\040proposed\040the\040term\040reward\055to\055variability\040ratio\040to\040describe\040it\040\050the\040measure\040is\040also\040described\040in\040Sharpe\040\1331975\135\040\051\056\040While\040the\040measure\040has\040gained\040considerable\040popularity\054\040the\040name\040has\040not\056\040Other\040authors\040have\040termed\040the\040original\040version\040the\040Sharpe\040Index\040\050Radcliff\040\1331990\054\040p\056\040286\135\040and\040Haugen\040\1331993\054\040p\056\040315\135\051\054\040the\040Sharpe\040Measure\040\050Bodie\054\040Kane\040and\040Marcus\040\1331993\054\040p\056\040804\135\054\040Elton\040and\040Gruber\040\1331991\054\040p\056\040652\135\054\040and\040Reilly\040\1331989\054\040p\056803\135\051\054\040or\040the\040Sharpe\040Ratio\040\050Morningstar\040\1331993\054\040p\056\04024\135\051\056\040Generalized\040versions\040have\040also\040appeared\040under\040various\040names\040\050see\056\040for\040example\054\040BARRA\040\1331992\054\040p\056\04021\135\040and\040Capaul\054\040Rowley\040and\040Sharpe\040\1331993\054\040p\056\04033\135\051\056)
+/Keywords (31\040Oct\0401994\054\040The\040Journal\040of\040Portfolio\040Management\054\040Modigliani\040risk\055adjusted\040performance\054\040Omega\040ratio\054\040Sharpe\040ratio\054\040V2\040ratio\054\040Sortino\040ratio\054\040Stanford\040University)
+>>
+endobj
+3 0 obj
+<<
+/Annots 38 0 R
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 0
+/Contents 53 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+/T1_2 56 0 R
+/T1_3 57 0 R
+/T1_4 58 0 R
+/T1_5 59 0 R
+>>
+/ProcSet [ /PDF /Text ]
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 1
+/Contents 60 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 61 0 R
+/Im1 65 0 R
+>>
+/ColorSpace <<
+/CS0 63 0 R
+/CS1 67 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+/T1_2 59 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Annots 69 0 R
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 2
+/Contents 71 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 72 0 R
+/Im1 76 0 R
+/Im2 80 0 R
+/Im3 84 0 R
+>>
+/ColorSpace <<
+/CS0 74 0 R
+/CS1 78 0 R
+/CS2 82 0 R
+/CS3 86 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 3
+/Contents 88 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 89 0 R
+/Im1 93 0 R
+/Im2 97 0 R
+/Im3 101 0 R
+>>
+/ColorSpace <<
+/CS0 91 0 R
+/CS1 95 0 R
+/CS2 99 0 R
+/CS3 103 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 4
+/Contents 105 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+/T1_2 59 0 R
+>>
+/ProcSet [ /PDF /Text ]
+>>
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Annots 106 0 R
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 5
+/Contents 116 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/T1_0 54 0 R
+/T1_1 59 0 R
+/T1_2 55 0 R
+>>
+/ProcSet [ /PDF /Text ]
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Annots 117 0 R
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 6
+/Contents 125 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/T1_0 54 0 R
+/T1_1 59 0 R
+>>
+/ProcSet [ /PDF /Text ]
+>>
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Annots 126 0 R
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 7
+/Contents 129 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 130 0 R
+/Im1 134 0 R
+/Im2 138 0 R
+>>
+/ColorSpace <<
+/CS0 132 0 R
+/CS1 136 0 R
+/CS2 140 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+/T1_1 59 0 R
+/T1_2 55 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Annots 142 0 R
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 8
+/Contents 144 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 145 0 R
+/Im1 149 0 R
+/Im2 153 0 R
+/Im3 157 0 R
+>>
+/ColorSpace <<
+/CS0 147 0 R
+/CS1 151 0 R
+/CS2 155 0 R
+/CS3 159 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+/T1_2 59 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 9
+/Contents 161 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 162 0 R
+/Im1 166 0 R
+/Im2 170 0 R
+/Im3 174 0 R
+>>
+/ColorSpace <<
+/CS0 164 0 R
+/CS1 168 0 R
+/CS2 172 0 R
+/CS3 176 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Annots 178 0 R
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 10
+/Contents 180 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 181 0 R
+/Im1 185 0 R
+/Im2 189 0 R
+/Im3 193 0 R
+>>
+/ColorSpace <<
+/CS0 183 0 R
+/CS1 187 0 R
+/CS2 191 0 R
+/CS3 195 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 11
+/Contents 197 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 198 0 R
+>>
+/ColorSpace <<
+/CS0 200 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+/T1_1 59 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+15 0 obj
+<<
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 12
+/Contents 202 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 203 0 R
+>>
+/ColorSpace <<
+/CS0 205 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+16 0 obj
+<<
+/Annots 207 0 R
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 13
+/Contents 211 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 212 0 R
+/Im1 216 0 R
+/Im2 220 0 R
+>>
+/ColorSpace <<
+/CS0 214 0 R
+/CS1 218 0 R
+/CS2 222 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+17 0 obj
+<<
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 14
+/Contents 224 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 225 0 R
+/Im1 229 0 R
+/Im2 233 0 R
+/Im3 237 0 R
+/Im4 241 0 R
+/Im5 245 0 R
+>>
+/ColorSpace <<
+/CS0 227 0 R
+/CS1 231 0 R
+/CS2 235 0 R
+/CS3 239 0 R
+/CS4 243 0 R
+/CS5 247 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+18 0 obj
+<<
+/Annots 249 0 R
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 15
+/Contents 251 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 252 0 R
+>>
+/ColorSpace <<
+/CS0 254 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+/T1_2 59 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC /ImageI ]
+>>
+/Type /Page
+>>
+endobj
+19 0 obj
+<<
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 16
+/Contents 256 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+/T1_2 59 0 R
+>>
+/ProcSet [ /PDF /Text ]
+>>
+/Type /Page
+>>
+endobj
+20 0 obj
+<<
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 17
+/Contents 257 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/T1_0 54 0 R
+/T1_1 55 0 R
+/T1_2 59 0 R
+>>
+/ProcSet [ /PDF /Text ]
+>>
+/Type /Page
+>>
+endobj
+21 0 obj
+<<
+/Annots 258 0 R
+/Parent 1 0 R
+/ID 52 0 R
+/StructParents 18
+/Contents 260 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/XObject <<
+/Im0 261 0 R
+>>
+/Font <<
+/T1_0 54 0 R
+/T1_1 59 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC ]
+>>
+/Type /Page
+>>
+endobj
+22 0 obj
+<<
+/D [ 19 0 R /XYZ 0 605.615 null ]/S /GoTo
+>>
+endobj
+23 0 obj
+<<
+/Dests 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Names [ (\233\243\044wCm\045\030ègnğV¹³\045fn1) 22 0 R (\233\243\044wCm\045\030ègnğV¹³\045fn10) 25 0 R (\233\243\044wCm\045\030ègnğV¹³\045fn2) 26 0 R (\233\243\044wCm\045\030ègnğV¹³\045fn3) 27 0 R (\233\243\044wCm\045\030ègnğV¹³\045fn4) 28 0 R (\233\243\044wCm\045\030ègnğV¹³\045fn5) 29 0 R (\233\243\044wCm\045\030ègnğV¹³\045fn6) 30 0 R (\233\243\044wCm\045\030ègnğV¹³\045fn7) 31 0 R (\233\243\044wCm\045\030ègnğV¹³\045fn8) 32 0 R (\233\243\044wCm\045\030ègnğV¹³\045fn9) 33 0 R ]
+>>
+endobj
+25 0 obj
+<<
+/D [ 20 0 R /XYZ 0 548.945 null ]/S /GoTo
+>>
+endobj
+26 0 obj
+<<
+/D [ 19 0 R /XYZ 0 519.415 null ]/S /GoTo
+>>
+endobj
+27 0 obj
+<<
+/D [ 19 0 R /XYZ 0 361.638 null ]/S /GoTo
+>>
+endobj
+28 0 obj
+<<
+/D [ 19 0 R /XYZ 0 325.838 null ]/S /GoTo
+>>
+endobj
+29 0 obj
+<<
+/D [ 19 0 R /XYZ 0 273.238 null ]/S /GoTo
+>>
+endobj
+30 0 obj
+<<
+/D [ 19 0 R /XYZ 0 136.638 null ]/S /GoTo
+>>
+endobj
+31 0 obj
+<<
+/D [ 20 0 R /XYZ 0 763.638 null ]/S /GoTo
+>>
+endobj
+32 0 obj
+<<
+/D [ 20 0 R /XYZ 0 711.038 null ]/S /GoTo
+>>
+endobj
+33 0 obj
+<<
+/D [ 20 0 R /XYZ 0 658.438 null ]/S /GoTo
+>>
+endobj
+34 0 obj
+<<
+/S /GoTo
+/D [ 0 /XYZ 0 792 0 ]
+>>
+endobj
+35 0 obj
+<<
+/Title (The\040Sharpe\040Ratio)
+/A 34 0 R
+/Parent 36 0 R
+>>
+endobj
+36 0 obj
+<<
+/First 35 0 R
+/Count 1
+/Last 35 0 R
+>>
+endobj
+37 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Names 23 0 R
+/Outlines 36 0 R
+>>
+endobj
+38 0 obj
+[ 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R ]
+endobj
+39 0 obj
+<<
+/Rect [ 140.634 467.588 220.336 482.588 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Sharpe66)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+40 0 obj
+<<
+/Rect [ 529.498 448.788 568.376 463.788 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Sharpe75)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+41 0 obj
+<<
+/Rect [ 10 429.988 47.324 444.988 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Sharpe75)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+42 0 obj
+<<
+/Rect [ 267.782 411.188 313.66 426.188 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Radcliff)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+43 0 obj
+<<
+/Rect [ 423.7 411.188 467.24 426.188 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Haugen)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+44 0 obj
+<<
+/Rect [ 108.742 392.388 247.93 407.388 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Bodie)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+45 0 obj
+<<
+/Rect [ 337.754 392.388 434.956 407.388 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Elton)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+46 0 obj
+<<
+/Rect [ 548.496 392.388 582.726 407.388 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Reilly)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+47 0 obj
+<<
+/Rect [ 214.134 373.588 283.35 388.588 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Morningstar)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+48 0 obj
+<<
+/Rect [ 287.186 354.788 335.416 369.788 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043BARRA)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+49 0 obj
+<<
+/Rect [ 438.456 354.788 594.766 369.788 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Capaul)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+50 0 obj
+<<
+/Rect [ 121.594 266.588 201.296 281.588 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Sharpe66)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+51 0 obj
+<<
+/Rect [ 228.512 266.588 308.214 281.588 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Sharpe75)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+52 0 obj
+(\233\243\044wCm\045\030ègnğV¹³\045)
+endobj
+53 0 obj
+<<
+/Length 5051
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_1 1 Tf
+24.7692 0 0 24.7692 204.1489 725.2968 Tm
+(The Sharpe Ratio)Tj
+19.3846 0 0 19.3846 225.2049 681.2918 Tm
+(William F. Sharpe )Tj
+-0.444 -1.2 Td
+(Stanford University )Tj
+16.1538 0 0 16.1538 66.7858 618.5996 Tm
+(Reprinted from)Tj
+/T1_2 1 Tf
+(The Journal of Portfolio Management)Tj
+/T1_1 1 Tf
+(, Fall 1994 )Tj
+/T1_3 1 Tf
+10.7692 0 0 10.7692 71.4595 575.5216 Tm
+( )Tj
+/T1_4 1 Tf
+10.3385 0 0 10.3385 74.1518 582.1383 Tm
+(This copyrighted material has been reprinted with permission from )Tj
+/T1_3 1 Tf
+29.027 0.32 Td
+(The Journal of Portfolio Management.)Tj
+/T1_4 1 Tf
+16.085 -0.32 Td
+(  )Tj
+-40.99 -1.854 Td
+(Copyright \251 Institutional Investor, Inc., 488 Madison Avenue, New Yor\k, N.Y. 10022, )Tj
+5.568 -1.599 Td
+(a Capital Cities/ABC, Inc. Company. Phone \(212\) 224-3599.)Tj
+/T1_0 1 Tf
+14 0 0 14 304.25 507.7636 Tm
+( )Tj
+-21.018 -2.557 Td
+(. Over 25 years ago, in )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+140.634 469.847 m
+220.336 469.847 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 140.634 471.9636 Tm
+(Sharpe [1966])Tj
+0 0 0 rg
+(, I introduced a measure for the performance of mutual funds and )Tj
+-9.331 -1.343 Td
+(proposed the term )Tj
+/T1_5 1 Tf
+(reward-to-variability ratio)Tj
+/T1_0 1 Tf
+( to describe it \(the measure is also described in )Tj
+ET
+529.498 451.047 m
+571.876 451.047 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 529.498 453.1636 Tm
+(Sharpe )Tj
+ET
+10 432.247 m
+47.324 432.247 l
+S
+BT
+/T1_0 1 Tf
+14 0 0 14 10 434.3636 Tm
+([1975])Tj
+0 0 0 rg
+( \). While the measure has gained considerable popularity, the name has \not. Other authors have )Tj
+0 -1.343 TD
+(termed the original version the Sharpe Index \()Tj
+ET
+267.782 413.447 m
+313.66 413.447 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 267.782 415.5636 Tm
+(Radcliff)Tj
+0 0 0 rg
+( [1990, p. 286] and )Tj
+ET
+423.7 413.447 m
+467.24 413.447 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 423.7 415.5636 Tm
+(Haugen)Tj
+0 0 0 rg
+( [1993, p. 315]\), the )Tj
+-29.55 -1.343 Td
+(Sharpe Measure \()Tj
+ET
+108.742 394.647 m
+247.93 394.647 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 108.742 396.7636 Tm
+(Bodie, Kane and Marcus)Tj
+0 0 0 rg
+( [1993, p. 804], )Tj
+ET
+337.754 394.647 m
+434.956 394.647 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 337.754 396.7636 Tm
+(Elton and Gruber)Tj
+0 0 0 rg
+( [1991, p. 652], and )Tj
+ET
+548.496 394.647 m
+582.726 394.647 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 548.496 396.7636 Tm
+(Reilly)Tj
+0 0 0 rg
+( )Tj
+-38.464 -1.343 Td
+([1989, p.803]\), or the Sharpe Ratio \()Tj
+ET
+214.134 375.847 m
+283.35 375.847 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 214.134 377.9636 Tm
+(Morningstar)Tj
+0 0 0 rg
+( [1993, p. 24]\). Generalized versions have also )Tj
+-14.581 -1.343 Td
+(appeared under various names \(see. for example, )Tj
+ET
+287.186 357.047 m
+335.416 357.047 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 287.186 359.1636 Tm
+(BARRA)Tj
+0 0 0 rg
+( [1992, p. 21] and )Tj
+ET
+438.456 357.047 m
+594.766 357.047 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 438.456 359.1636 Tm
+(Capaul, Rowley and Sharpe)Tj
+0 0 0 rg
+( )Tj
+-30.604 -1.343 Td
+([1993, p. 33]\). )Tj
+0 -2.557 TD
+(Bowing to increasingly common usage, this article refers to both the ori\ginal measure and more )Tj
+0 -1.2 TD
+(generalized versions as the Sharpe Ratio. My goal here is to go well bey\ond the discussion of the )Tj
+0 -1.2 TD
+(original measure in )Tj
+ET
+121.594 268.847 m
+201.296 268.847 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 121.594 270.9636 Tm
+(Sharpe [1966])Tj
+0 0 0 rg
+( and )Tj
+ET
+228.512 268.847 m
+308.214 268.847 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 228.512 270.9636 Tm
+(Sharpe [1975])Tj
+0 0 0 rg
+(, providing more generality and covering a broader )Tj
+-15.608 -1.343 Td
+(range of applications. )Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 214.2338 Tm
+(THE RATIO)Tj
+/T1_0 1 Tf
+14 0 0 14 10 177.979 Tm
+(Most performance measures are )Tj
+/T1_5 1 Tf
+(computed)Tj
+/T1_0 1 Tf
+( using historic data but )Tj
+/T1_5 1 Tf
+(justified)Tj
+/T1_0 1 Tf
+( on the basis of predicted )Tj
+0 -1.2 TD
+(relationships. Practical implementations use ex post results while theor\etical discussions focus on ex )Tj
+T*
+(ante values. Implicitly or explicitly, it is assumed that historic resul\ts have at least some predictive )Tj
+0 -1.2 TD
+(ability. )Tj
+0 -2.557 TD
+(For some applications, it suffices for future values of a measure to be \related monotonically to past )Tj
+0 -1.2 TD
+(values -- that is, if fund X had a higher historic measure than fund Y, \it is assumed that it will have a )Tj
+T*
+(higher future measure. For other applications the relationship must be p\roportional - - that is, it is )Tj
+0 -1.2 TD
+(assumed that the future measure will equal some constant \(typically les\s than 1.0\) times the historic )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(1 of 19\)6/23/2005 2:3\0:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+54 0 obj
+<<
+/Subtype /Type1
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Type /Font
+>>
+endobj
+55 0 obj
+<<
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Type /Font
+>>
+endobj
+56 0 obj
+<<
+/Subtype /Type1
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Type /Font
+>>
+endobj
+57 0 obj
+<<
+/Subtype /Type1
+/BaseFont /Times-BoldItalic
+/Encoding /WinAnsiEncoding
+/Type /Font
+>>
+endobj
+58 0 obj
+<<
+/Subtype /Type1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Type /Font
+>>
+endobj
+59 0 obj
+<<
+/Subtype /Type1
+/BaseFont /Times-Italic
+/Encoding /WinAnsiEncoding
+/Type /Font
+>>
+endobj
+60 0 obj
+<<
+/Length 3147
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(measure. )Tj
+0 -2.557 TD
+(To avoid ambiguity, we define here both ex ante and ex post versions of \the Sharpe Ratio, beginning )Tj
+0 -1.2 TD
+(with the former. With the exception of this section, however, we focus o\n the use of the ratio for making )Tj
+0 -1.2 TD
+(decisions, and hence are concerned with the ex ante version. The importa\nt issues associated with the )Tj
+T*
+(relationships \(if any\) between historic Sharpe Ratios and unbiased for\ecasts of the ratio are left for other )Tj
+T*
+(expositions. )Tj
+0 -2.557 TD
+(Throughout, we build on Markowitz' mean-variance paradigm, which assumes\ that the mean and )Tj
+0 -1.2 TD
+(standard deviation of the distribution of one-period return are sufficie\nt statistics for evaluating the )Tj
+T*
+(prospects of an investment portfolio. Clearly, comparisons based on the \first two moments of a )Tj
+T*
+(distribution do not take into account possible differences among portfol\ios in other moments or in )Tj
+T*
+(distributions of outcomes across states of nature that may be associated\ with different levels of investor )Tj
+T*
+(utility. )Tj
+0 -2.557 TD
+(When such considerations are especially important, return mean and varia\nce may not suffice, requiring )Tj
+0 -1.2 TD
+(the use of additional or substitute measures. Such situations are, howev\er, beyond the scope of this )Tj
+T*
+(article. Our goal is simply to examine the situations in which two measu\res \(mean and variance\) can )Tj
+T*
+(usefully be summarized with one \(the Sharpe Ratio\). )Tj
+/T1_1 1 Tf
+0 -2.574 TD
+(The Ex Ante Sharpe Ratio)Tj
+/T1_0 1 Tf
+0 -2.54 TD
+(Let R)Tj
+11.2 0 0 11.2 41.5 369.7915 Tm
+(f)Tj
+14 0 0 14 45.2296 373.3755 Tm
+( represent the return on fund F in the forthcoming period and R)Tj
+11.2 0 0 11.2 399.0656 369.7915 Tm
+(B)Tj
+14 0 0 14 406.536 373.3755 Tm
+( the return on a benchmark )Tj
+-28.324 -1.664 Td
+(portfolio or security. In the equations, the tildes over the variables i\ndicate that the exact values may not )Tj
+0 -1.2 TD
+(be known in advance. Define d, the )Tj
+/T1_2 1 Tf
+(differential return)Tj
+/T1_0 1 Tf
+(, as: )Tj
+ET
+q
+140 0 0 45 10 264.5071106 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 150 264.5071 Tm
+( )Tj
+-10 -2.457 Td
+(Let d-bar be the expected value of d and sigma)Tj
+11.2 0 0 11.2 272.43 226.5231 Tm
+(d)Tj
+14 0 0 14 278.03 230.1071 Tm
+( be the predicted standard deviation of d. The ex ante )Tj
+-19.145 -1.664 Td
+(Sharpe Ratio \(S\) is: )Tj
+ET
+q
+110 0 0 67 10 116.0386658 cm
+/Im1 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 120 116.0387 Tm
+( )Tj
+-7.857 -2.457 Td
+(In this version, the ratio indicates the expected differential return pe\r unit of risk associated with the )Tj
+0 -1.2 TD
+(differential return. )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(2 of 19\)6/23/2005 2:3\0:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+61 0 obj
+<<
+/Subtype /Image
+/ID 62 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 63 0 R
+/Width 140
+/Height 45
+/Type /XObject
+/Length 258
+>>
+stream
+H‰ì—ëƒ ƒóş/Íc: éV;6¼à+PĞ”B¡ĞM _ÌñBxÒ4,
+¤o ¨ÚÜpH›ÇC]H£ç¢½m\gD¶â¦}“5i^1•]¼İıJ¬ã*S¦àWeÖÒ«gc³ å˜û² e¡€§hÈ²¼¢I«R^º
+KX5GÒvªï¹V©;°ÊN¨vs ËVº™æ¯>ÛõDšGu²vf²2MRª+qëRB³+ Á$LçY•²,¬GŞ§§±Ì24¡û`bv4åT÷@*Ë‡Á—rY.,šçV,WBQ?şñ×$
+…B‡ê!À v>
+endstream
+endobj
+62 0 obj
+(ô\0127\176Cëoyí\045f\014\231Ì\211s)
+endobj
+63 0 obj
+[ /Indexed /DeviceRGB 255 64 0 R ]
+endobj
+64 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ  l  Ü 3  G  Wÿ c  n  z  |ÿ †  ‘  ›  ÿ ¨  ³ÿ ¾İ Íÿ Ñ  á  áÜ ç  éÿ.·¸A&Pœ¾T6)T9fTªÀ[ÊºaB4c  fGhmN?mNyvWHv¡xYƒ{~¡~  €aR€azÜ…cŞ…›×…ëÂ‡i¤ˆj[ˆ—ŸˆÎËŠ¦›ŠÖ‰Œİ¼¡HĞ   «¬sd‘²ü’ ÿ–yğ˜{l™… ›“û¢ö±°´Aà€«1    …w¥Şä¨€¨éŠ©¶¿©¸\ªŠ «^£«çì¬Às­  ­N?®~¸®Æ¯ï¡¯ğï°wÿ°˜Š²²¨³‘³ù¢´g°µ’¶iS¶Èˆ¸SE¸Òºÿ ¼¦š¼§³½ ÿ¾™Ñ¾ÈÒÀĞ”Áy‡Áç Â[ØÂrCÂ•AÂ®¢ÂÿÿÅŸ1ÇŸÖÇÖ È¤É¦VÉ·­ÉØ¨ÊĞŞË±\Í¼›Îg›Î¾ÿÎá®ĞfÔĞªÜĞÍÖÑ…£Ñ»pÑÁ¸ÒæÕÓ’¨Óé1Õ˜}Õ¥€ÖkFÖµäØœ¨ØÅÙjØÙËÃÜÏÈİ¨¯İ¹ İĞ‘İÑÌİñïŞ ÿŞÿÿßmïßwFßÀèßÓÌßæ÷àyşáÖ â£ ã³¼äJäRäÓÿä×–äÛÕäâ äêLäîµåÇöæx±æÍµé  é Üéà¿éá êâİêâÿêïİë¡ëïtìÙìù÷ìÿ íõ£î~µîçãğ‹oğåğ²zğÆËóÁ|ôÏÕõÍ{õâµö¡³÷¨ø÷Íù²µÿ Ïÿ[ÿÿf ÿ“ ÿ˜ÿÿºÿÿ» ÿ¾´ÿÌÿÿÍŸÿ× ÿÛÿÿêÿÿÿ´ÿÿİ   (((000888@@@HHHPPPXXX```hhhpppxxxˆˆˆ˜˜˜   ¨¨¨°°°¸¸¸ÈÈÈĞĞĞØØØàààÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+65 0 obj
+<<
+/Subtype /Image
+/ID 66 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 67 0 R
+/Width 110
+/Height 67
+/Type /XObject
+/Length 246
+>>
+stream
+H‰ì—Û„ Dûÿ?Í.q¹Æ.†2Æ¦ó`"HÔÚ–”B!š¤èéñ!²ÓÜní"4ZG¬^ÜÑ—vïqx3½|>&ÇjÁÀ«D‰»<7ëÉÊĞp’ÚüŠ¤¹½Ğ€Q«°ëLŒF[+Ó‚hW¸eh`Ì×Y•Ö…®‰'Œ¸~é¥şÓÀ&Ï ‹¬îk5š'{ƒ)-‘ÜÄ°Ñ®˜åxà¶Å$nwY\¬o¡Šz,åvÉüÆ•Õ¹¢,¾[ÂÍ4!Ñˆ}næ#Òæ&,§GT.ı»i$Øï¼ÅsefE[
+…<é#À úXŸÜ
+endstream
+endobj
+66 0 obj
+<7fed042872196e8a916435049eaf0cb0>
+endobj
+67 0 obj
+[ /Indexed /DeviceRGB 255 68 0 R ]
+endobj
+68 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+69 0 obj
+[ 70 0 R ]
+endobj
+70 0 obj
+<<
+/Rect [ 310.868 461.087 316.468 473.17 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043fn1)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+71 0 obj
+<<
+/Length 2679
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_1 1 Tf
+14 0 0 14 10 753.733 Tm
+(The Ex Post Sharpe Ratio)Tj
+/T1_0 1 Tf
+0 -2.54 TD
+(Let R)Tj
+11.2 0 0 11.2 41.5 714.5916 Tm
+(Ft)Tj
+14 0 0 14 50.8408 718.1756 Tm
+( be the return on the fund in period t, R)Tj
+11.2 0 0 11.2 269.7588 714.5916 Tm
+(Bt)Tj
+14 0 0 14 280.3428 718.1756 Tm
+( the return on the benchmark portfolio or security in )Tj
+-19.31 -1.664 Td
+(period t, and D)Tj
+11.2 0 0 11.2 93.986 691.2987 Tm
+(t)Tj
+14 0 0 14 97.0996 694.8827 Tm
+( the differential return in period t: )Tj
+ET
+q
+156 0 0 38 10 626.6142273 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 166 626.6142 Tm
+( )Tj
+-11.143 -2.457 Td
+(Let D-bar be the average value of D)Tj
+11.2 0 0 11.2 211.754 588.6302 Tm
+(t)Tj
+14 0 0 14 214.8676 592.2142 Tm
+( over the historic period from t=1 through T: )Tj
+ET
+q
+158 0 0 65 10 496.9457703 cm
+/Im1 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 168 496.9458 Tm
+( )Tj
+-11.286 -2.561 Td
+(and sigma)Tj
+11.2 0 0 11.2 67.162 457.5027 Tm
+(D)Tj
+14 0 0 14 75.2484 461.0867 Tm
+( be the standard deviation over the period )Tj
+ET
+0 0 1 RG
+0.564 w 10 M 0 j 0 J []0 d 
+310.868 462.977 m
+316.468 462.977 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+11.2 0 0 11.2 310.8684 464.6707 Tm
+(1)Tj
+0 0 0 rg
+14 0 0 14 316.4684 461.0867 Tm
+(: )Tj
+ET
+q
+217 0 0 96 10 334.818222 cm
+/Im2 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 227 334.8182 Tm
+( )Tj
+-15.5 -2.457 Td
+(The ex post, or historic Sharpe Ratio \(S)Tj
+11.2 0 0 11.2 231.648 296.8342 Tm
+(h)Tj
+14 0 0 14 237.248 300.4182 Tm
+(\) is: )Tj
+ET
+q
+119 0 0 63 10 207.1497803 cm
+/Im3 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 129 207.1498 Tm
+( )Tj
+-8.5 -2.457 Td
+(In this version, the ratio indicates the historic average differential r\eturn per unit of historic variability of )Tj
+0 -1.2 TD
+(the differential return. )Tj
+0 -2.557 TD
+(It is a simple matter to compute an ex post Sharpe Ratio using a spreads\heet program. The returns on a )Tj
+0 -1.2 TD
+(fund are listed in one column and those of the desired benchmark in the \next column. The differences )Tj
+T*
+(are computed in a third column. Standard functions are then utilized to \compute the components of the )Tj
+0 -1.2 TD
+(ratio. For example, if the differential returns were in cells C1 through\ C60, a formula would provide the )Tj
+T*
+(Sharpe Ratio using Microsoft's Excel spreadsheet program: )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(3 of 19\)6/23/2005 2:3\0:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+72 0 obj
+<<
+/Subtype /Image
+/ID 73 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 74 0 R
+/Width 156
+/Height 38
+/Type /XObject
+/Length 269
+>>
+stream
+H‰ì–ƒ „ûş/Í–!BkÛ+ˆÉ{É”ŸC>[•’J¥RDFùTqè«^“–*çÈ0mÑ~ÃL¸ÚêÒÙcm¾aj€†ëJÿ¼‘»ÈGâ^Îì°A{Ù†(µ¢8…M1<’ÒZºÅ]á[Åd“D3sJ%š§¨Q€`67¥VçÚK<ÁÆ·6îbc—p0—Ä¨‘óØ{3›[E^±³¹/ÂvÏG_	kí=®Á3¢•ŠP×Ğ~ãqVz«Ó«Ã²[œ·ŒäÔĞŠÒësà)AF»î8ÛÔ÷+4eØø6Š®‘°qBè˜éŸIhlgJø/z*•J¥Şª  ªq°w
+endstream
+endobj
+73 0 obj
+(\236¾vk\273\175\007ù\076Ü2TUv\231\037)
+endobj
+74 0 obj
+[ /Indexed /DeviceRGB 255 75 0 R ]
+endobj
+75 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+76 0 obj
+<<
+/Subtype /Image
+/ID 77 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 78 0 R
+/Width 158
+/Height 65
+/Type /XObject
+/Length 369
+>>
+stream
+H‰ì—‹ƒ0EùÿŸvÉæƒÎÕ–-ÜDc[ÀÓ‡¥.K©T*ı‚hÓl(bW:ÑzK	÷V2¸¼’Ğ	‹?	]î±ÃtiàŠ®C€.Ü™.U›KBPûx&»¤#±`ôr•íq‰šâÀL ,ƒÀ‘ï0^ı°71{Ğo_nºõ
+;kä^W6¯;––Ò·\N’ÒE;1‡NÉKn§¤C¦Q:ZT:jl\§V[tºæ[Rè@‹˜E<Q.èxxY®òÒ5Ï2İ±…¾YeOè¡Ó6B)°T"îw=ˆ§"ÅÔ	ı+wkÆ@N?5¦vÜl¡Ô¢Åç2ô±Ëå4BÛ¡ğ¡¡»A±¥?£s¯„E¾ó'8ğ».šGN#x½Ú8rœ €XøÔL¥»<tN¤k“Ji“g¶ÑúÀro":tê,:›À/e:º¶*J ‰èÀ~2=[”J¥R)¬—  P‚SÃ
+endstream
+endobj
+77 0 obj
+<6c0dbf970b31537f3a2e281ac85785b6>
+endobj
+78 0 obj
+[ /Indexed /DeviceRGB 255 79 0 R ]
+endobj
+79 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+80 0 obj
+<<
+/Subtype /Image
+/ID 81 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 82 0 R
+/Width 217
+/Height 96
+/Type /XObject
+/Length 640
+>>
+stream
+H‰ì—‰’Ã †yÿ—ÎÎvÚä¨ÚĞòÏì6>¯àq”J¥RÉCà)O.G_®*°Õô#`»ü&+«]RÀ
+°gØê_¶š~l.°˜ïâı`ğ@»Ül‡[£x•ƒh°Û²)0'‡KƒÖ}nz£ññ²-˜‹—	—Sğä'~(
+{H³n«iüë'4{¢	ÕB£íğ4vÛWÄò}ÆÕl>€í7c¸z2*emÆ ­Ğç[‹¶ictÊbÄ=³9ÜŒm;¾°”p…™Àô&Œ|x{&0c¯ÄL`Â¶`j°¼=ìó„Á.ª{“°ä“Î1¡’@ÍÅ¤$d¨…aïÌ%Òl1%	–Âë
+9SâÑÙ+;W¯ï3fÚö=šut
+Œ½–m,ğ ïSöø¦e¥ŸKzì}¹EZğô®)°„z'ëÂÊ[ìv{9!9°3¿(Í™iÀ¤‹£+ØëšÚø¸¡\`è6«„ÓmI[ŠO_âEwÆTš;'ŒVô¾&äñÿ!éÎåhÁèÎÉz2l0á°wÌ=€"¸iôcY¾TC³Nv6$;T0¥^4Fûõ˜¾D-°h€½‹x¨²/EôRÀğf»¹ÀhBuV.Íb¥_20°ËÂÍ/~ò€µ‘tjOó˜ò¨»¿œ¡úVíkhì>ìÇ3
+†şˆ™€™·’åÑ€^)Md¶Lƒ9®ÓìD‚)ñ¬fæWƒÙ¹çÂ`¶&Àğ}f™ôXcèëX.Õ¶`ã)ıWS"ó€ŠQ²p®Ó¶`¥R©T*•J¥=ô'À ÉJuÅ
+endstream
+endobj
+81 0 obj
+(\035\225\220zu\176\134\256\240\273\003\220H\036õ\175)
+endobj
+82 0 obj
+[ /Indexed /DeviceRGB 255 83 0 R ]
+endobj
+83 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+84 0 obj
+<<
+/Subtype /Image
+/ID 85 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 86 0 R
+/Width 119
+/Height 63
+/Type /XObject
+/Length 272
+>>
+stream
+H‰ì—QÃ D¹ÿ¥íLÚ(*¢&ÎT÷£­)ÉS²ÂÑÑ‘(Ê´z6«eù¥/}	6xc©ø>X;ê"ì9¾q#TjR‡ŠErÁ.Ÿrı×½ÚDiŒwƒ”@(Â¨<RÍi“Š*^^Â¾iç)³éüærq¢Û{$åÛŒ±Õ Ë$y «­—T=Æ2Ga¢ilV]Ş;Y³/Q k±"ÕìlJ0¬àP5ƒ×¦‡cŠsYózÑ#­hšëF’Ò’M±ñcì*—Y»İ^{;7ô®-Ì¾û¶VïÔæØ8´2—„e ¶÷ÀÜ|uùê½´å~ÓKÕWì9¿ÜÎQı+¥Oi<:ÚP  _æ•
+endstream
+endobj
+85 0 obj
+(\134Gf\021BíC\030\012e\246\011O\222ìQ)
+endobj
+86 0 obj
+[ /Indexed /DeviceRGB 255 87 0 R ]
+endobj
+87 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ  l  Ü 3  G  Wÿ c  n  z  |ÿ †  ‘  ›  ÿ ¨  ³ÿ ¾İ Íÿ Ñ  á  áÜ ç  éÿ.·¸A&Pœ¾T6)T9fTªÀ[ÊºaB4c  fGhmN?mNyvWHv¡xYƒ{~¡~  €aR€azÜ…cŞ…›×…ëÂ‡i¤ˆj[ˆ—ŸˆÎËŠ¦›ŠÖ‰Œİ¼¡HĞ   «¬sd‘²ü’ ÿ–yğ˜{l™… ›“û¢ö±°´Aà€«1    …w¥Şä¨€¨éŠ©¶¿©¸\ªŠ «^£«çì¬Às­  ­N?®~¸®Æ¯ï¡¯ğï°wÿ°˜Š²²¨³‘³ù¢´g°µ’¶iS¶Èˆ¸SE¸Òºÿ ¼¦š¼§³½ ÿ¾™Ñ¾ÈÒÀĞ”Áy‡Áç Â[ØÂrCÂ•AÂ®¢ÂÿÿÅŸ1ÇŸÖÇÖ È¤É¦VÉ·­ÉØ¨ÊĞŞË±\Í¼›Îg›Î¾ÿÎá®ĞfÔĞªÜĞÍÖÑ…£Ñ»pÑÁ¸ÒæÕÓ’¨Óé1Õ˜}Õ¥€ÖkFÖµäØœ¨ØÅÙjØÙËÃÜÏÈİ¨¯İ¹ İĞ‘İÑÌİñïŞ ÿŞÿÿßmïßwFßÀèßÓÌßæ÷àyşáÖ â£ ã³¼äJäRäÓÿä×–äÛÕäâ äêLäîµåÇöæx±æÍµé  é Üéà¿éá êâİêâÿêïİë¡ëïtìÙìù÷ìÿ íõ£î~µîçãğ‹oğåğ²zğÆËóÁ|ôÏÕõÍ{õâµö¡³÷¨ø÷Íù²µÿ Ïÿ[ÿÿf ÿ“ ÿ˜ÿÿºÿÿ» ÿ¾´ÿÌÿÿÍŸÿ× ÿÛÿÿêÿÿÿ´ÿÿİ   (((000888@@@HHHPPPXXX```hhhpppxxxˆˆˆ˜˜˜   ¨¨¨°°°¸¸¸ÈÈÈĞĞĞØØØàààÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+88 0 obj
+<<
+/Length 2748
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 50 747.1498 Tm
+(AVERAGE\(C1:C60\)/STDEV\(C1:C60\) )Tj
+-2.857 -2.557 Td
+(The historic Sharpe Ratio is closely related to the t-statistic for meas\uring the statistical significance of )Tj
+0 -1.2 TD
+(the mean differential return. The t-statistic will equal the Sharpe Rati\o times the square root of T \(the )Tj
+0 -1.2 TD
+(number of returns used for the calculation\). If historic Sharpe Ratios \for a set of funds are computed )Tj
+T*
+(using the same number of observations, the Sharpe Ratios will thus be pr\oportional to the t-statistics of )Tj
+T*
+(the means. )Tj
+/T1_1 1 Tf
+0 -2.574 TD
+(Time Dependence)Tj
+/T1_0 1 Tf
+0 -2.54 TD
+(The Sharpe Ratio is not independent of the time period over which it is \measured. This is true for both )Tj
+0 -1.2 TD
+(ex ante and ex post measures. )Tj
+0 -2.557 TD
+(Consider the simplest possible case. The one-period mean and standard de\viation of the differential )Tj
+0 -1.2 TD
+(return are, respectively, d-bar)Tj
+11.2 0 0 11.2 175.214 499.5658 Tm
+(1)Tj
+14 0 0 14 180.814 503.1498 Tm
+( and sigma)Tj
+11.2 0 0 11.2 241.476 499.5658 Tm
+(d1)Tj
+14 0 0 14 252.676 503.1498 Tm
+(. Assume that the differential return over T periods is )Tj
+-17.334 -1.664 Td
+(measured by simply summing the one-period differential returns and that \the latter have zero serial )Tj
+0 -1.2 TD
+(correlation. Denote the mean and standard deviation of the resulting T-p\eriod return, respectively, d-bar)Tj
+11.2 0 0 11.2 591.644 459.4729 Tm
+(T)Tj
+14 0 0 14 598.4872 463.0569 Tm
+( )Tj
+-42.035 -1.664 Td
+(and sigma)Tj
+11.2 0 0 11.2 67.162 436.18 Tm
+(dT)Tj
+14 0 0 14 79.6052 439.764 Tm
+(. Under the assumed conditions: )Tj
+ET
+q
+122 0 0 47 10 362.4955597 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 132 362.4956 Tm
+( )Tj
+ET
+q
+150 0 0 54 10 286.1199951 cm
+/Im1 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 160 286.12 Tm
+( )Tj
+-10.714 -2.457 Td
+(and: )Tj
+ET
+q
+173 0 0 53 10 174.9444427 cm
+/Im2 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 183 174.9444 Tm
+( )Tj
+-12.357 -2.457 Td
+(Letting S)Tj
+11.2 0 0 11.2 61.73 136.9604 Tm
+(1)Tj
+14 0 0 14 67.33 140.5444 Tm
+( and S)Tj
+11.2 0 0 11.2 102.33 136.9604 Tm
+(T)Tj
+14 0 0 14 109.1732 140.5444 Tm
+( denote the Sharpe Ratios for 1 and T periods, respectively, it follows \that: )Tj
+ET
+q
+143 0 0 44 10 66.276001 cm
+/Im3 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 153 66.276 Tm
+( )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(4 of 19\)6/23/2005 2:3\0:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+89 0 obj
+<<
+/Subtype /Image
+/ID 90 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 91 0 R
+/Width 122
+/Height 47
+/Type /XObject
+/Length 219
+>>
+stream
+H‰ì–ƒ „ïı_šmqbÁÒ“m1¹K4
+ŸÔòSŠ$I»şı!·‚·¶Š5eÅæ¬¿1B‡¬&2l»¤QH6EŞh}©üºÍ¹}ş„ÜÕ³CîÉ^»g!K&¬<ğÆáf•oÉğ
+MUÚÚÛïÈffÌ‘áZpmDÖKd6píÿ=^yXò;a»£k¶³áô0Hâr,­^òÖ8TkôÁ¢>6SÒÑ(lß'Ÿ:â¦í
+2¿?/'Ojññ@ä5àµä‰3·Îç’$I’t'= L@VÑ
+endstream
+endobj
+90 0 obj
+(úÁI9\041\277\327eÆT\007c\011\074\225Ã)
+endobj
+91 0 obj
+[ /Indexed /DeviceRGB 255 92 0 R ]
+endobj
+92 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+93 0 obj
+<<
+/Subtype /Image
+/ID 94 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 95 0 R
+/Width 150
+/Height 54
+/Type /XObject
+/Length 317
+>>
+stream
+H‰ì•Ã „yÿ—îÖnşUf»¤lµ†ï<Eí¶EDDDü.èw°sáCûzVŞ¥/g5òåÇ¹º‰¯_*b_tÈùÑ@b¥ğš*M2M£ê‡²ÙÎàŠ0ËĞ=0%²E õ#0°‘¥ò¬ÛŒpöJ¦¥Ü ®¯MS6Ïa'®èÜwÊÂ¤[5­fÆWú~©Ô6 6opê^¸¤nØ’UWğ´ğëqÕv
+Â¶­WÁÑ=¦. ÎnõœÊnï“ús=¿Ú›³ƒ±_HîAæï³eÜ\×lJÍ¢Ëk¸,¬e'®we¶){XòGŞôÅf.E¿«Ï9JWæê`¡¹è¤w]*Gä»¨i;®ôäÓ\9”Ã€.så^å
+ûØØ…§0""""âŸâ%À jÔ÷ 
+endstream
+endobj
+94 0 obj
+(Q\133ÈEÆ\232\015\030\135\204\251\021\0175U\264)
+endobj
+95 0 obj
+[ /Indexed /DeviceRGB 255 96 0 R ]
+endobj
+96 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+97 0 obj
+<<
+/Subtype /Image
+/ID 98 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 99 0 R
+/Width 173
+/Height 53
+/Type /XObject
+/Length 330
+>>
+stream
+H‰ì—‹ƒ Eûÿ?Íâä%´PğÖ-±7Q‘Àñ®+¯\.—ë1Q£_ûé¯Íµz¹Y_°h0g?’Y¸á•¼W€º¥ò   Ÿû;DÕ¯'DJ`BKLé3Ë·ÒØâ>Pi–ÿbÿùYP2{>E³”ÒnÎ÷ÙXÆ¬P?Æ»
+ìÚ‹f¹ˆsáÏiï¢Y¨1^gõuWöµrŒU™UóZc\éRAf¿nå‰‹jR"/¶£nÌ3a×¸Ş]•*}¥¡?í7å®]kaèOœ`Í*x©åğ•Gc÷f+¼Å<ß[ ã™Â-Íšl#­½%˜@X¸ç¸ã‰ƒ¢ÙÜã!>-ı@S	Éİ$^°Ë†ø!0ÎÍf:çfÍs³	æš5˜ÂÑÄB¯8€µÛår¹\.×Kô` z}5©
+endstream
+endobj
+98 0 obj
+(Ã\023Ëd\246å\023âj\100DPwÎ\017\214)
+endobj
+99 0 obj
+[ /Indexed /DeviceRGB 255 100 0 R ]
+endobj
+100 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+101 0 obj
+<<
+/Subtype /Image
+/ID 102 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 103 0 R
+/Width 143
+/Height 44
+/Type /XObject
+/Length 268
+>>
+stream
+H‰ì—áÂ0„yÿ—QÓ(´]œ.Ñ+ßav¥R©´'’º›ææúJƒcgnŞŞrú;±[;‡òy×bnj’¯XÀCÍ0‰Ã>)ƒŞ'Føæn¤‚æœµù·™5‡cc‚8ÏÍ ¦qÌ–p Ï<Nª?,à$Úià$ÏáØƒÈ~,Òkej’58î?uÇ|P4×¬Zã~ã1şcŞì]Ø(Ú1³šCışìe/tQx³îÅğÈ„í0ÛÇû£8¾md—*
+òƒ…í’
+ˆòw¤Û¶Aá ƒ+qö½.ÄÙ“ûŠ—ÁR©T*ıˆ .
+endstream
+endobj
+102 0 obj
+<2b884896c708406becc4ad844d724efa>
+endobj
+103 0 obj
+[ /Indexed /DeviceRGB 255 104 0 R ]
+endobj
+104 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+105 0 obj
+<<
+/Length 3942
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(In practice, the situation is likely to be more complex. Multiperiod ret\urns are usually computed taking )Tj
+0 -1.2 TD
+(compounding into account, which makes the relationship more complicated.\ Moreover, underlying )Tj
+T*
+(differential returns may be serially correlated. Even if the underlying \process does not involve serial )Tj
+0 -1.2 TD
+(correlation, a specific ex post sample may. )Tj
+0 -2.557 TD
+(It is common practice to "annualize" data that apply to periods other th\an one year, using equations \(7\) )Tj
+0 -1.2 TD
+(and \(8\). Doing so before computing a Sharpe Ratio can provide at least\ reasonably meaningful )Tj
+T*
+(comparisons among strategies, even if predictions are initially stated i\n terms of different measurement )Tj
+0 -1.2 TD
+(periods. )Tj
+0 -2.557 TD
+(To maximize information content, it is usually desirable to measure risk\s and returns using fairly short \(e.)Tj
+0 -1.2 TD
+(g. monthly\) periods. For purposes of standardization it is then desirab\le to annualize the results. )Tj
+0 -2.557 TD
+(To provide perspective, consider investment in a broad stock market inde\x, financed by borrowing. )Tj
+0 -1.2 TD
+(Typical estimates of the annual excess return on the stock market in a d\eveloped country might include a )Tj
+T*
+(mean of 6% per year and a standard deviation of 15%. The resulting exces\s return Sharpe Ratio of "the )Tj
+T*
+(stock market", stated in annual terms would then be 0.40. )Tj
+/T1_1 1 Tf
+0 -2.574 TD
+(Correlations)Tj
+/T1_0 1 Tf
+0 -2.54 TD
+(The ex ante Sharpe Ratio takes into account both the expected differenti\al return and the associated risk, )Tj
+0 -1.2 TD
+(while the ex post version takes into account both the average differenti\al return and the associated )Tj
+T*
+(variability. Neither incorporates information about the correlation of a\ fund or strategy with other assets, )Tj
+T*
+(liabilities, or previous realizations of its own return. For this reason\, the ratio may need to be )Tj
+T*
+(supplemented in certain applications. Such considerations are discussed \in later sections. )Tj
+/T1_1 1 Tf
+0 -2.574 TD
+(Related Measures)Tj
+/T1_0 1 Tf
+0 -2.54 TD
+(The literature surrounding the Sharpe Ratio has, unfortunately, led to a\ certain amount of confusion. To )Tj
+0 -1.2 TD
+(provide clarification, two related measures are described here. The firs\t uses a different term to cover )Tj
+T*
+(cases that include the construct that we call the Sharpe Ratio. The seco\nd uses the same term to describe )Tj
+T*
+(a different but related construct. )Tj
+0 -2.557 TD
+(Whether measured ex ante or ex post, it is essential that the Sharpe Rat\io be computed using the mean )Tj
+0 -1.2 TD
+(and standard deviation of a )Tj
+/T1_2 1 Tf
+(differential return)Tj
+/T1_0 1 Tf
+( \(or, more broadly, the return on what will be termed a )Tj
+T*
+(zero investment strategy\). Otherwise it loses its )Tj
+/T1_2 1 Tf
+(raison d'etre)Tj
+/T1_0 1 Tf
+(. Clearly, the Sharpe Ratio can be )Tj
+T*
+(considered a special case of the more general construct of the ratio of \the mean of any distribution to its )Tj
+T*
+(standard deviation. )Tj
+0 -2.557 TD
+(In the investment arena, a number of authors associated with BARRA \(a m\ajor supplier of analytic tools )Tj
+0 -1.2 TD
+(and databases\) have used the term )Tj
+/T1_2 1 Tf
+(information ratio)Tj
+/T1_0 1 Tf
+( to describe such a general measure. In some )Tj
+T*
+(publications , the ratio is defined to apply only to differential return\s and is thus equivalent to the )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(5 of 19\)6/23/2005 2:3\0:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+106 0 obj
+[ 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R ]
+endobj
+107 0 obj
+<<
+/Rect [ 328.808 749.6 429.146 764.6 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Rudd)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+108 0 obj
+<<
+/Rect [ 539.186 749.6 582.74 764.6 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Grinold)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+109 0 obj
+<<
+/Rect [ 10 697.2 58.23 712.2 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043BARRA)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+110 0 obj
+<<
+/Rect [ 137.148 384 242.12 399 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Treynor)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+111 0 obj
+<<
+/Rect [ 246.768 365.2 347.106 380.2 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Rudd)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+112 0 obj
+<<
+/Rect [ 457.146 365.2 500.7 380.2 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Grinold)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+113 0 obj
+<<
+/Rect [ 258.22 263.116 263.82 275.2 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043fn2)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+114 0 obj
+<<
+/Rect [ 95.148 206.141 134.026 221.141 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Sharpe66)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+115 0 obj
+<<
+/Rect [ 232.418 79.5563 271.296 94.5563 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Sharpe66)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+116 0 obj
+<<
+/Length 5181
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(measure that we call the Sharpe Ratio \(see, for example, )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+328.808 751.859 m
+429.146 751.859 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 328.808 753.9756 Tm
+(Rudd and Clasing)Tj
+0 0 0 rg
+( [1982, p. 513] and )Tj
+ET
+539.186 751.859 m
+582.74 751.859 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 539.186 753.9756 Tm
+(Grinold)Tj
+0 0 0 rg
+( )Tj
+-37.799 -1.343 Td
+([1989, p. 31]\). In others, it is also encompasses the ratio of the mean\ to the standard deviation of the )Tj
+0 -1.2 TD
+(distribution of the return on a single investment, such as a fund or a b\enchmark \(see, for example, )Tj
+ET
+10 699.459 m
+58.23 699.459 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 701.5756 Tm
+(BARRA)Tj
+0 0 0 rg
+( [1993, p. 22]\). While such a "return information ratio" may be useful \as a descriptive statistic, )Tj
+0 -1.343 TD
+(it lacks a number of the key properties of what might be termed a "diffe\rential return information ratio" )Tj
+0 -1.2 TD
+(and may in some instances lead to wrong decisions. )Tj
+0 -2.557 TD
+(For example, consider the choice of a strategy involving cash and one of\ two funds, X and Y. X has an )Tj
+0 -1.2 TD
+(expected return of 5% and a standard deviation of 10%. Y has an expected\ return of 8% and a standard )Tj
+T*
+(deviation of 20%. The riskless rate of interest is 3%. According to the \ratio of expected return to )Tj
+0 -1.2 TD
+(standard deviation, X \(5/10, or 0.50\) is superior to Y \(8/20, or 0.40\\). According to the Sharpe Ratios )Tj
+T*
+(using excess return, X \(2/10, or 0.20\) is inferior to Y \(5/20, or 0.2\5\). )Tj
+0 -2.557 TD
+(Now, consider an investor who wishes to attain a standard deviation of 1\0%. This can be achieved with )Tj
+0 -1.2 TD
+(fund X, which will provide an expected return of 5.0%. It can also be ac\hieved with an investment of )Tj
+T*
+(50% of the investor's funds in Y and 50% in the riskless asset. The latt\er will provide an expected return )Tj
+0 -1.2 TD
+(of 5.5% -- clearly the superior alternative. )Tj
+0 -2.557 TD
+(Thus the Sharpe Ratio provides the correct answer \(a strategy using Y i\s preferred to one using X\), while )Tj
+0 -1.2 TD
+(the "return information ratio" provides the wrong one. )Tj
+0 -2.557 TD
+(In their seminal work, )Tj
+ET
+137.148 386.259 m
+242.12 386.259 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 137.148 388.3755 Tm
+(Treynor and Black)Tj
+0 0 0 rg
+( [1973], defined the term "Sharpe Ratio" as the )Tj
+/T1_1 1 Tf
+(square)Tj
+/T1_0 1 Tf
+( of the )Tj
+-9.082 -1.343 Td
+(measure that we describe. Others, such as )Tj
+ET
+246.768 367.459 m
+347.106 367.459 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 246.768 369.5756 Tm
+(Rudd and Clasing)Tj
+0 0 0 rg
+( [1982, p. 518] and )Tj
+ET
+457.146 367.459 m
+500.7 367.459 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 457.146 369.5756 Tm
+(Grinold)Tj
+0 0 0 rg
+( [1989, p. 31], )Tj
+-31.939 -1.343 Td
+(also use such a definition. )Tj
+0 -2.557 TD
+(While interesting in certain contexts, this construct has the curious pr\operty that all values are positive -- )Tj
+0 -1.2 TD
+(even those for which the mean differential return is negative. It thus o\bscures important information )Tj
+0 -1.2 TD
+(concerning performance. We prefer to follow more common practice and thu\s refer to the Treynor-Black )Tj
+0 -1.304 TD
+(measure as the Sharpe Ratio squared \(SR)Tj
+11.2 0 0 11.2 240.958 266.7004 Tm
+(2)Tj
+14 0 0 14 246.558 263.1164 Tm
+(\). )Tj
+ET
+0.564 w 
+258.22 265.007 m
+263.82 265.007 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+11.2 0 0 11.2 258.22 266.7004 Tm
+(2)Tj
+0 0 0 rg
+14 0 0 14 263.82 263.1164 Tm
+(: )Tj
+-18.13 -2.557 Td
+(We focus here on the Sharpe Ratio, which takes into account both risk an\d return without reference to a )Tj
+0 -1.2 TD
+(market index. [)Tj
+ET
+0.706 w 
+95.148 208.4 m
+134.026 208.4 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 95.148 210.5164 Tm
+(Sharpe)Tj
+0 0 0 rg
+( 1966, 1975] discusses both the Sharpe Ratio and measures based on marke\t )Tj
+-6.082 -1.343 Td
+(indices, such as Jensen's alpha and Treynor's average excess return to b\eta ratio. )Tj
+/T1_2 1 Tf
+16.1538 0 0 16.1538 10 153.7866 Tm
+(Scale Independence)Tj
+/T1_0 1 Tf
+14 0 0 14 10 117.5318 Tm
+(Originally, the benchmark for the Sharpe Ratio was taken to be a riskles\s security. In such a case the )Tj
+/T1_1 1 Tf
+0 -1.2 TD
+(differential return)Tj
+/T1_0 1 Tf
+( is equal to the )Tj
+/T1_1 1 Tf
+(excess return)Tj
+/T1_0 1 Tf
+( of the fund over a one-period riskless rate of interest. )Tj
+T*
+(Many of the descriptions of the ratio in )Tj
+ET
+232.418 81.815 m
+271.296 81.815 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 232.418 83.9318 Tm
+(Sharpe)Tj
+0 0 0 rg
+( [1966, 1975] focus on this case . )Tj
+-15.887 -2.7 Td
+(More recent applications have utilized benchmark portfolios designed to \have a set of "factor loadings" )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(6 of 19\)6/23/2005 2:3\0:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+117 0 obj
+[ 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R ]
+endobj
+118 0 obj
+<<
+/Rect [ 10 663.4 114.972 678.4 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Treynor)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+119 0 obj
+<<
+/Rect [ 266.004 644.6 366.342 659.6 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Rudd)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+120 0 obj
+<<
+/Rect [ 298.12 625.8 336.998 640.8 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043Sharpe92)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+121 0 obj
+<<
+/Rect [ 108.392 559.516 113.992 571.6 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043fn3)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+122 0 obj
+<<
+/Rect [ 586.996 385.657 592.596 397.741 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043fn4)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+123 0 obj
+<<
+/Rect [ 554.726 230.798 560.326 242.882 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043fn5)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+124 0 obj
+<<
+/Rect [ 218.39 195.739 223.99 207.823 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043fn6)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+125 0 obj
+<<
+/Length 5741
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(or an "investment style" similar to that of the fund being evaluated. In\ such cases the differential return )Tj
+0 -1.2 TD
+(represents the difference between the return on the fund and the return \that would have been obtained )Tj
+T*
+(from a "similar" passive alternative. The difference between the two ret\urns may be termed an "active )Tj
+0 -1.2 TD
+(return" or "selection return", depending on the underlying procedure uti\lized to select the benchmark. )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+10 665.659 m
+114.972 665.659 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 10 667.7756 Tm
+(Treynor and Black)Tj
+0 0 0 rg
+( [1973] cover the case in which the benchmark portfolio is, in effect, a\ combination of )Tj
+0 -1.343 TD
+(riskless securities and the "market portfolio". )Tj
+ET
+266.004 646.859 m
+366.342 646.859 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 266.004 648.9756 Tm
+(Rudd and Clasing)Tj
+0 0 0 rg
+( [1982] describe the use of benchmarks )Tj
+-18.286 -1.343 Td
+(based on factor loadings from a multifactor model. )Tj
+ET
+298.12 628.059 m
+336.998 628.059 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 298.12 630.1756 Tm
+(Sharpe)Tj
+0 0 0 rg
+( [1992] uses a procedure termed )Tj
+/T1_1 1 Tf
+(style analysis)Tj
+/T1_0 1 Tf
+( )Tj
+-20.58 -1.343 Td
+(to select a mix of asset class index funds that have a "style" similar t\o that of the fund. When such a mix )Tj
+0 -1.2 TD
+(is used as a benchmark, the differential return is termed the fund's )Tj
+/T1_1 1 Tf
+(selection return)Tj
+/T1_0 1 Tf
+(. The Sharpe Ratio of )Tj
+T*
+(the selection return can then serve as a measure of the fund's performan\ce over and above that due to its )Tj
+0 -1.304 TD
+(investment style. )Tj
+ET
+0.564 w 
+108.392 561.407 m
+113.992 561.407 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+11.2 0 0 11.2 108.392 563.1004 Tm
+(3)Tj
+0 0 0 rg
+14 0 0 14 113.992 559.5164 Tm
+(: )Tj
+-7.428 -2.557 Td
+(Central to the usefulness of the Sharpe Ratio is the fact that a differe\ntial return represents the result of a )Tj
+/T1_1 1 Tf
+0 -1.2 TD
+(zero-investment strategy)Tj
+/T1_0 1 Tf
+(. This can be defined as any strategy that involves a zero outlay of mon\ey in the )Tj
+0 -1.2 TD
+(present and returns either a positive, negative or zero amount in the fu\ture, depending on circumstances. )Tj
+T*
+(A differential return clearly falls in this class, since it can be obtai\ned by taking a long position in one )Tj
+T*
+(asset \(the fund\) and a short position in another \(the benchmark\), wi\th the funds from the latter used to )Tj
+T*
+(finance the purchase of the former. )Tj
+0 -2.557 TD
+(In the original applications of the ratio, where the benchmark is taken \to be a one- period riskless asset, )Tj
+0 -1.304 TD
+(the differential return represents the payoff from a unit investment in \the fund, financed by borrowing. )Tj
+ET
+586.996 387.548 m
+592.596 387.548 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+11.2 0 0 11.2 586.996 389.2413 Tm
+(4)Tj
+0 0 0 rg
+14 0 0 14 592.596 385.6573 Tm
+(: )Tj
+-41.614 -1.2 Td
+(More generally, the differential return corresponds to the payoff obtain\ed from a unit investment in the )Tj
+0 -1.2 TD
+(fund, financed by a short position in the benchmark. For example, a fund\'s )Tj
+/T1_1 1 Tf
+(selection return)Tj
+/T1_0 1 Tf
+( can be )Tj
+0 -1.2 TD
+(considered to be the payoff from a unit investment in the fund, financed\ by short positions in a mix of )Tj
+0 -1.2 TD
+(asset class index funds with the same style. )Tj
+0 -2.557 TD
+(A differential return can be obtained explicitly by entering into an agr\eement in which a party and a )Tj
+0 -1.2 TD
+(counterparty agree to )Tj
+/T1_1 1 Tf
+(swap)Tj
+/T1_0 1 Tf
+( the return on the benchmark for the return on the fund and vice-versa. \A )Tj
+/T1_1 1 Tf
+T*
+(forward contract)Tj
+/T1_0 1 Tf
+( provides a similar result. Arbitrage will insure that the return on suc\h a contract will be )Tj
+0 -1.304 TD
+(very close to the excess return on the underlying asset for the period e\nding on the delivery date. )Tj
+ET
+554.726 232.689 m
+560.326 232.689 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+11.2 0 0 11.2 554.726 234.3822 Tm
+(5)Tj
+0 0 0 rg
+14 0 0 14 560.326 230.7982 Tm
+(: A )Tj
+-39.309 -1.2 Td
+(similar relationship holds approximately for traded contracts such as st\ock index futures , which clearly )Tj
+0 -1.304 TD
+(represent zero-investment strategies. )Tj
+ET
+218.39 197.63 m
+223.99 197.63 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+11.2 0 0 11.2 218.39 199.3231 Tm
+(6)Tj
+0 0 0 rg
+14 0 0 14 223.99 195.7391 Tm
+(: )Tj
+-15.285 -2.557 Td
+(To compute the return for a zero-investment strategy the payoff is divid\ed by a )Tj
+/T1_1 1 Tf
+(notional value)Tj
+/T1_0 1 Tf
+(. For )Tj
+0 -1.2 TD
+(example, the dollar payoff for a swap is often set to equal the differen\ce between the dollar return on an )Tj
+0 -1.2 TD
+(investment of $X in one asset and that on an investment of $X in another\. The net difference can then be )Tj
+T*
+(expressed as a proportion of $X, which serves as the notional value. Ret\urns on futures positions are )Tj
+T*
+(often computed in a similar manner, using the initial value of the under\lying asset as a base. In effect, )Tj
+T*
+(the same approach is utilized when the difference between two returns is\ computed. )Tj
+0 -2.557 TD
+(Since there is zero net investment in any such strategy, the )Tj
+/T1_1 1 Tf
+(percent)Tj
+/T1_0 1 Tf
+( return can be made as large or small )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(7 of 19\)6/23/2005 2:3\0:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+126 0 obj
+[ 127 0 R 128 0 R ]
+endobj
+127 0 obj
+<<
+/Rect [ 571.862 735.08 577.462 747.164 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043fn7)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+128 0 obj
+<<
+/Rect [ 117.702 664.221 123.302 676.304 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043fn8)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+129 0 obj
+<<
+/Length 3445
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.3391 Tm
+(as desired by simply changing the notional value used in such a computat\ion. The )Tj
+/T1_1 1 Tf
+(scale)Tj
+/T1_0 1 Tf
+( of the return )Tj
+0 -1.304 TD
+(thus depends on the more- or-less arbitrary choice of the notional value\ utilized for its computation. )Tj
+ET
+0 0 1 RG
+0.564 w 10 M 0 j 0 J []0 d 
+571.862 736.971 m
+577.462 736.971 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+11.2 0 0 11.2 571.862 738.664 Tm
+(7)Tj
+0 0 0 rg
+14 0 0 14 577.462 735.08 Tm
+(: )Tj
+-40.533 -2.557 Td
+(Changes in the notional value clearly affect the mean and the standard d\eviation of the distribution of )Tj
+0 -1.2 TD
+(return, but the changes are of the same magnitude, leaving the Sharpe Ra\tio unaffected. The ratio is thus )Tj
+/T1_1 1 Tf
+0 -1.304 TD
+(scale independent)Tj
+/T1_0 1 Tf
+(. )Tj
+ET
+117.702 666.111 m
+123.302 666.111 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+11.2 0 0 11.2 117.702 667.8049 Tm
+(8)Tj
+0 0 0 rg
+14 0 0 14 123.302 664.2209 Tm
+(: )Tj
+/T1_2 1 Tf
+16.1538 0 0 16.1538 10 626.2911 Tm
+(The Influence of a Zero Investment Strategy on Asset Risk and Return)Tj
+/T1_0 1 Tf
+14 0 0 14 10 590.0363 Tm
+(Scale independence is more than a mathematical artifact. It is key to un\derstanding why the Sharpe )Tj
+0 -1.2 TD
+(Ratio can provide an efficient summary statistic for a zero- investment \strategy. To show this, we )Tj
+T*
+(consider the case of an investor with a pre-existing portfolio who is co\nsidering the choice of a zero )Tj
+0 -1.2 TD
+(investment strategy to augment current investments. )Tj
+/T1_2 1 Tf
+0 -2.574 TD
+(The Relative Position in a Zero Investment Strategy)Tj
+/T1_0 1 Tf
+0 -2.54 TD
+(Assume that the investor has $A in assets and has placed this money in a\n investment portfolio with a )Tj
+0 -1.2 TD
+(return of R)Tj
+11.2 0 0 11.2 71.432 447.6523 Tm
+(I)Tj
+14 0 0 14 75.1616 451.2363 Tm
+(. She is considering investment in a zero-investment strategy that will \provide a return of d )Tj
+-4.654 -1.664 Td
+(per unit of notional value. Denote the notional value chosen as V \(e.g.\ investment of V in a fund )Tj
+0 -1.2 TD
+(financed by a short position of V in a benchmark\). Define the )Tj
+/T1_1 1 Tf
+(relative position)Tj
+/T1_0 1 Tf
+(, p, as the ratio of the )Tj
+0 -1.2 TD
+(notional value to the investor's assets: )Tj
+ET
+q
+119 0 0 57 10 313.5678253 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 129 313.5678 Tm
+( )Tj
+-8.5 -2.457 Td
+(The end-of-period payoff will be: )Tj
+ET
+q
+186 0 0 38 10 217.3922729 cm
+/Im1 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 196 217.3923 Tm
+( )Tj
+-13.286 -2.457 Td
+(Let R)Tj
+11.2 0 0 11.2 41.5 179.4083 Tm
+(A)Tj
+14 0 0 14 49.5864 182.9923 Tm
+( denote the total return on the investor's initial assets. Then: )Tj
+ET
+q
+166 0 0 44 10 108.7238312 cm
+/Im2 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 176 108.7238 Tm
+( )Tj
+-11.857 -2.457 Td
+(If R-bar)Tj
+11.2 0 0 11.2 54.702 70.7398 Tm
+(A)Tj
+14 0 0 14 62.7884 74.3238 Tm
+( denotes the expected return on assets and R- bar)Tj
+11.2 0 0 11.2 336.1104 70.7398 Tm
+(I)Tj
+14 0 0 14 339.84 74.3238 Tm
+( the expected return on the investment: )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(8 of 19\)6/23/2005 2:3\0:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+130 0 obj
+<<
+/Subtype /Image
+/ID 131 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 132 0 R
+/Width 119
+/Height 57
+/Type /XObject
+/Length 218
+>>
+stream
+H‰ì×Ñƒ ĞşÿO3u‚¢Ô­¥Ü&Òûà’-rÖaZ–R$™8´$_¡nõfÑê„«›ˆWWÒG§ØÅôP“ªM4ï-¤a©¾“G«–vzê«C·«w­V·a³¼öÈRN}bïK®ŒÅx²û›İ®”¥<k ?rs°R•q,~o~’“E±GkÜ¿ø¹‚f±F§C~ş‰2q%öKf©Áª`Şş|p]Îcg¯:¨œ±>ÿ:æB[.pÎ*ôè14¡n$‰¼' ¨0oğ
+endstream
+endobj
+131 0 obj
+(\220áÕ\045Ç\234ë\007\250\215M\236\036ÅÉ\047)
+endobj
+132 0 obj
+[ /Indexed /DeviceRGB 255 133 0 R ]
+endobj
+133 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+134 0 obj
+<<
+/Subtype /Image
+/ID 135 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 136 0 R
+/Width 186
+/Height 38
+/Type /XObject
+/Length 357
+>>
+stream
+H‰ì—ë²ƒ0„÷ı_ºg¦jä²L;§:?Zm`ùB´¯W[[[Û‚Ø¾Ÿ–oÕèÏì³Üû¤ñ“’ÿ0÷#Œ¦T®K5½¸ ù‚+{ø«bÄ´€Û,±"ÉÈq$:î
+èªqxB¡[cáåMÈ¡êÿ•T~Ô‘6Å@²Tr-z…1º g¬¡
+\y‰œÕmZËMj4$wñt#=ˆÊg“‘{¢rºıgäâÙYçäìÊ$ÊÉƒç'#®ã¨ñõ*ûA±WÓ’¢NÈ•ŸĞ;Æ"9È Š`ß©9Ü‡n\er9ßy·KÉE¿§YŒ!OÀ¹YÈ <%¹£äVO¢´èØ€³¦¶ïpù«æjıŒŒQVzgOÜúc>óÈ‚«ï°É‘÷nE›¯‡nÓ€Ëä“gürhàõeğ(¦¤Tq*‚ßğÔí€ÊÖäÿnOç/»mmmm7´? 9TÈ—
+endstream
+endobj
+135 0 obj
+(\224qú\076\0361\046\010ã\264Âç\016\135B\045)
+endobj
+136 0 obj
+[ /Indexed /DeviceRGB 255 137 0 R ]
+endobj
+137 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+138 0 obj
+<<
+/Subtype /Image
+/ID 139 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 140 0 R
+/Width 166
+/Height 44
+/Type /XObject
+/Length 320
+>>
+stream
+H‰ì—YÃ Dçş—¦jhÂ/JH[y>J…Œı0Ø")…B¡€<.w:›9gK‹r:ù³\›JÆé-‘Eâ¦Wf‚Iû~Bû
+ëî#Ë‰éÛˆ®EÍf—(¯ŒÍyi€zD5%¦ƒé1ÃLeËt€Oh6ê*:•¥0Õ9œ<ğ*J§zÿ§„M)P—ŒV<¨¤Òş‰—r‰~ª	ä9Umú;îhdÊte—íıw)eÃÀä²¼…²Ap
+¬¹¢¥ÙSn—Y¯SÑ6’´ºÆSI9SãåƒL(îığı—}¸6bŞKÊ=É…4l˜ûB•79á‡óEôº«(µ5Ì9ÌQÎ@Îï—h"äÒg<óŒ\ˆc|;å¹Ó¨FÏ	Í`=¥Ò»áÏŸP(
+…Bÿ¥—  Áôy
+endstream
+endobj
+139 0 obj
+(\052B\253\220\244W\032\221ës\030IWD\042\032)
+endobj
+140 0 obj
+[ /Indexed /DeviceRGB 255 141 0 R ]
+endobj
+141 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+142 0 obj
+[ 143 0 R ]
+endobj
+143 0 obj
+<<
+/Rect [ 310.944 210.736 316.544 222.819 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057SR\056htm\043fn9)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+144 0 obj
+<<
+/Length 3181
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+q
+161 0 0 41 10 725 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 171 725 Tm
+( )Tj
+-11.5 -2.457 Td
+(Now, let sigma)Tj
+11.2 0 0 11.2 95.162 687.016 Tm
+(A)Tj
+14 0 0 14 103.2484 690.6 Tm
+(, sigma)Tj
+11.2 0 0 11.2 143.6944 687.016 Tm
+(I)Tj
+14 0 0 14 147.424 690.6 Tm
+( and sigma)Tj
+11.2 0 0 11.2 208.086 687.016 Tm
+(d)Tj
+14 0 0 14 213.686 690.6 Tm
+( denote the standard deviations of the returns on assets, the )Tj
+-14.549 -1.664 Td
+(investment and the zero-investment strategy, respectively, and rho)Tj
+11.2 0 0 11.2 381.322 663.7231 Tm
+(Id)Tj
+14 0 0 14 390.6516 667.3071 Tm
+( the correlation between the return )Tj
+-27.189 -1.664 Td
+(on the investment and the return on the zero-investment strategy. Then: \)Tj
+ET
+q
+321 0 0 44 10 576.2386627 cm
+/Im1 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 331 576.2387 Tm
+( )Tj
+-22.929 -2.457 Td
+(or, rewriting slightly: )Tj
+ET
+q
+333 0 0 49 10 469.0631104 cm
+/Im2 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 343 469.0631 Tm
+( )Tj
+/T1_1 1 Tf
+-23.786 -2.474 Td
+(The Risk Position in a Zero Investment Strategy)Tj
+/T1_0 1 Tf
+0 -2.54 TD
+(The parenthesized expression \(p sigma)Tj
+11.2 0 0 11.2 227.728 395.2791 Tm
+(d)Tj
+14 0 0 14 233.328 398.8631 Tm
+(\) is of particular interest. It indicates the risk of the position in )Tj
+-15.952 -1.664 Td
+(the zero-investment strategy relative to the investor's overall assets. \Let k denote this )Tj
+/T1_2 1 Tf
+(risk position)Tj
+/T1_0 1 Tf
+( )Tj
+ET
+q
+123 0 0 38 10 313.7946625 cm
+/Im3 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 133 313.7947 Tm
+( )Tj
+-8.786 -2.457 Td
+(For many purposes it is desirable to consider k as the relevant decision\ variable. Doing so states the )Tj
+0 -1.2 TD
+(magnitude of a zero-investment strategy in terms of its risk relative to\ the investor's overall assets. In )Tj
+T*
+(effect, one first determines k, the level of risk of the zero- investmen\t strategy. Having answered this )Tj
+T*
+(fundamental question, the relative \(p\) and absolute \(V\) amounts of n\otional value for the strategy can )Tj
+0 -1.304 TD
+(readily be determined, using equations \(17\) and \(11\). )Tj
+ET
+0 0 1 RG
+0.564 w 10 M 0 j 0 J []0 d 
+310.944 212.626 m
+316.544 212.626 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+11.2 0 0 11.2 310.944 214.3195 Tm
+(9)Tj
+0 0 0 rg
+14 0 0 14 316.544 210.7355 Tm
+(: )Tj
+/T1_1 1 Tf
+-21.896 -2.574 Td
+(Asset Risk and Expected Return)Tj
+/T1_0 1 Tf
+0 -2.54 TD
+(It is straightforward to determine the manner in which asset risk and ex\pected return are related to the )Tj
+0 -1.2 TD
+(risk position of the zero investment strategy, its correlation with the \investment, and its Sharpe Ratio. )Tj
+0 -2.557 TD
+(Substituting k in equation \(16\) gives the relationship between 1\) ass\et risk and 2\) the risk position and )Tj
+0 -1.2 TD
+(the correlation of the strategy with the investment: )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(9 of 19\)6/23/2005 2:3\0:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+145 0 obj
+<<
+/Subtype /Image
+/ID 146 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 147 0 R
+/Width 161
+/Height 41
+/Type /XObject
+/Length 303
+>>
+stream
+H‰ìWÑÃ ãÿÚİ¶Ö¯×ö6ò°:A±m­P(<Ôq¶=ß Âù1Ø½rùq¬Is¶¦9	ÉİB~#2í6µÀ(²ïgœà‘|~Äê®ÁÔ$„ Õ×ÇºâÍ5çÇçuèl-fX$‰'êTæş—•Ï;#Ä'lÿß0ÃJ}ÚÇls¹}	HˆC–èSªï¿i¢†á…{$‚B_&Å^Ÿ¶l859b;z}YCñÖĞUü·#Ğñ)î[©_7£N9f´"ó-8¾h¸NãÅkqgÊhfRÃ\#).°²(0§Ïãcú [O÷]õ®¼ö]£$rş`cqI·€Ä#&İ€£şêÓ³P(
+…4^ OÃ<
+endstream
+endobj
+146 0 obj
+(Öù\046F9\020\2415\266S\261à\015\232\256ï)
+endobj
+147 0 obj
+[ /Indexed /DeviceRGB 255 148 0 R ]
+endobj
+148 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+149 0 obj
+<<
+/Subtype /Image
+/ID 150 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 151 0 R
+/Width 321
+/Height 44
+/Type /XObject
+/Length 615
+>>
+stream
+H‰ìWÙrƒ@óÿÿ4M™>äc—cèÄz€d{…÷È²4F£Ñh|+èƒ«X/Å­ÅÓÿÖKqkñkÜ4zõR<P|-ú5pEx7x!ë¥è<‡Bñqek½Ä¿2Ş†äİèíäSIwÆ¿Ç‡CÙÈÜÄT6šı¶*c=~<ÌEìJ·AWˆ'”
+m„YGsÑŞXÉÆÛ®ÕîóÄ»D|H]‡„ÿ”\€”Dß–c`ûıÉ¿µ›PM0­„ÅŞºEd’
+:Ş´y!.kQÊ;\²leSÌY€B	§4Ë¢fç³6`ép…ëÆŸG	íX;Îˆ¾‘…vYj¾è…Q+T§À$\lk›™dNŞp2ĞhØÚ)j•ËŒ-ïø˜ø"l‚o­Ò,ºáxî5XşÈÄDi‚¿JEşX¬²üÅ("˜]8
+–*GdÍr>°ê&qt=jQÁDmÂÜ€h>2Zá"yğøwc«8‚êhX¨@áŸX¤t«È`KbÀ¨¤ (Á&=†otåP%QÆXfšMèÓ ?œxèá²Ú€AÀJ„k´¿üófÓ=7)Ëş¹Ô¢9¯Ğ€šÍv+pÁ}vW9à_ò©Caş§®	5 §c+h¿Ôk| òoA±š5lÕX¾ô>å4²9!h#A³i˜%›ra^9‹b·û· ÁVZÒ;ømÊ9€s£G«×ÄN£ğ/NeÅ…Òbò‡§p£Ñh4F£ñ…ø` ı–Ì
+endstream
+endobj
+150 0 obj
+(\205OsGPÁ\233ü\024\001Åb\204\050s\012)
+endobj
+151 0 obj
+[ /Indexed /DeviceRGB 255 152 0 R ]
+endobj
+152 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ  l  Ü 3  G  Wÿ c  n  z  |ÿ †  ‘  ›  ÿ ¨  ³ÿ ¾İ Íÿ Ñ  á  áÜ ç  éÿ.·¸A&Pœ¾T6)T9fTªÀ[ÊºaB4c  fGhmN?mNyvWHv¡xYƒ{~¡~  €aR€azÜ…cŞ…›×…ëÂ‡i¤ˆj[ˆ—ŸˆÎËŠ¦›ŠÖ‰Œİ¼¡HĞ   «¬sd‘²ü’ ÿ–yğ˜{l™… ›“û¢ö±°´Aà€«1    …w¥Şä¨€¨éŠ©¶¿©¸\ªŠ «^£«çì¬Às­  ­N?®~¸®Æ¯ï¡¯ğï°wÿ°˜Š²²¨³‘³ù¢´g°µ’¶iS¶Èˆ¸SE¸Òºÿ ¼¦š¼§³½ ÿ¾™Ñ¾ÈÒÀĞ”Áy‡Áç Â[ØÂrCÂ•AÂ®¢ÂÿÿÅŸ1ÇŸÖÇÖ È¤É¦VÉ·­ÉØ¨ÊĞŞË±\Í¼›Îg›Î¾ÿÎá®ĞfÔĞªÜĞÍÖÑ…£Ñ»pÑÁ¸ÒæÕÓ’¨Óé1Õ˜}Õ¥€ÖkFÖµäØœ¨ØÅÙjØÙËÃÜÏÈİ¨¯İ¹ İĞ‘İÑÌİñïŞ ÿŞÿÿßmïßwFßÀèßÓÌßæ÷àyşáÖ â£ ã³¼äJäRäÓÿä×–äÛÕäâ äêLäîµåÇöæx±æÍµé  é Üéà¿éá êâİêâÿêïİë¡ëïtìÙìù÷ìÿ íõ£î~µîçãğ‹oğåğ²zğÆËóÁ|ôÏÕõÍ{õâµö¡³÷¨ø÷Íù²µÿ Ïÿ[ÿÿf ÿ“ ÿ˜ÿÿºÿÿ» ÿ¾´ÿÌÿÿÍŸÿ× ÿÛÿÿêÿÿÿ´ÿÿİ   (((000888@@@HHHPPPXXX```hhhpppxxxˆˆˆ˜˜˜   ¨¨¨°°°¸¸¸ÈÈÈĞĞĞØØØàààÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+153 0 obj
+<<
+/Subtype /Image
+/ID 154 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 155 0 R
+/Width 333
+/Height 49
+/Type /XObject
+/Length 617
+>>
+stream
+H‰ìWírÃ ãı_:Û¥KÀ¶üàvÙ¬GÙ¨ÆĞã(
+…B¡P(¬CûÆ*Ö›°cEí”]Ãzv¬è”sEc¬7aßŠb¢ÊÌeæBì1s!ëM¨Â\uEx~eÉíô2®=³NNµ½¬ş9ö#Qf¼\sYËH n*…&ˆ0,lÅÄ#MÀZsYË	Hv26<À«×zø“é±Ö\Ö’2‹¬™wéÁu7B£êN¤g^’ Óf>äÇ7Ğ½äf{¿ñĞ`A35¾‰ô¦æªû½ŸğÒ¹4…ÁœõH|•u03U¯ğÔw—òjfVÀş²5ş‰ŞŒó&‹çoğ[ÜÌAÂŠ®›™°¿šé+Z,¶}šÃw£föOÔüÉèIˆVğÓ	™‰N©;6O‘v FGŒOšÕç½Ÿ™Ù€…*3' ñÌL¨`°PŸìé>İı¬~q‚ÒšK6b¦) !Nó&ç8›n pç,å7¾ŠŒó{ıI&i¦cEáº²Nóœ Æ¸I¯‘èlq_ f
+ÊkÜ°ŒßÒbhíqˆ{Kˆø3-€»xèOßÏ@£Ÿ-’Ïr3™©P®ÿŞZßz.À©¾!œmf¢Y¥´ìŠ°¶š›¢# èEç9çq ›.Ú	‘'.f9†N›” Ô‹Í2ÿÇ2¨$é¡Âü$F/ôuN	¬‚S#+)ªÌ&J¤ó"½›@.Òo˜VŒıÚ;RüPË½LÊgO¸1-sİ¸{l¤«zôûjRí|en—N
+…B¡P(
+…B¡P(ş/¾ 8e=
+endstream
+endobj
+154 0 obj
+(Ø\006\216Hä\003\203\076\100\217³\010q\174\253F)
+endobj
+155 0 obj
+[ /Indexed /DeviceRGB 255 156 0 R ]
+endobj
+156 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+157 0 obj
+<<
+/Subtype /Image
+/ID 158 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 159 0 R
+/Width 123
+/Height 38
+/Type /XObject
+/Length 216
+>>
+stream
+H‰ì•Ñ€ Eïÿÿ´m5'è…aZ¾pª…r€ÀJI¥RŸ
+3¯a¬^ £Ş9ìÍäJ+‚Ì);ÉwÍdÅİt‡ÁğÀlPzAöÑ£_ˆ¯#İ @øŠDõ
+m:j¨Cc´²NM´Š7Kh£ŠhW5¬–±
+„ƒIw[÷¢»‚è1²54
+O¼k²HÒm½ßÚÏ-¡ñŠŞBXıáíŠTöJwÈç3ä€y‰lŸ™Áãå‘nÿ}‚\‡ñLÚ÷ßô9•J¥~Ğ%À 0C.Á
+endstream
+endobj
+158 0 obj
+(¾\202Ö\244X\0767u\140t\004Sz\004rŞ)
+endobj
+159 0 obj
+[ /Indexed /DeviceRGB 255 160 0 R ]
+endobj
+160 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+161 0 obj
+<<
+/Length 2821
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+q
+252 0 0 49 10 717 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 262 717 Tm
+( )Tj
+-18 -2.457 Td
+(To see the relationship between asset expected return and the characteri\stics of the zero investment )Tj
+0 -1.2 TD
+(strategy, note that the Sharpe Ratio is the ratio of d-bar to sigma)Tj
+11.2 0 0 11.2 368.904 662.216 Tm
+(d)Tj
+14 0 0 14 374.504 665.8 Tm
+(. It follows that )Tj
+ET
+q
+120 0 0 37 10 598.5315552 cm
+/Im1 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 130 598.5316 Tm
+( )Tj
+-8.571 -2.457 Td
+(Substituting equation \(19\) in equation \(14\) gives: )Tj
+ET
+q
+183 0 0 39 10 501.3560028 cm
+/Im2 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 193 501.356 Tm
+( )Tj
+-13.071 -2.457 Td
+(or: )Tj
+ET
+q
+152 0 0 37 10 406.1804504 cm
+/Im3 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 162 406.1805 Tm
+( )Tj
+-10.857 -2.457 Td
+(which shows that the expected return on assets is related directly to th\e product of the risk position times )Tj
+T*
+(the Sharpe Ratio of the strategy. )Tj
+0 -2.557 TD
+(By selecting an appropriate scale, any zero investment strategy can be u\sed to achieve a desired level \(k\) )Tj
+0 -1.2 TD
+(of relative risk. This level, plus the strategy's Sharpe Ratio, will det\ermine asset expected return, as )Tj
+T*
+(shown by equation \(21\). Asset risk, however, will depend on both the r\elative risk \(k\) and the correlation )Tj
+0 -1.2 TD
+(of the strategy with the other investment \(rho)Tj
+11.2 0 0 11.2 263.134 265.1964 Tm
+(Id)Tj
+14 0 0 14 272.4636 268.7804 Tm
+( \). In general, the Sharpe Ratio, which does not take that )Tj
+-18.747 -1.664 Td
+(correlation into account, will not by itself provide sufficient informat\ion to determine a set of decisions )Tj
+0 -1.2 TD
+(that will produce an optimal combination of asset risk and return, given\ an investor's tolerance of risk. )Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 190.7577 Tm
+(Adding a Zero-Investment Strategy to an Existing Portfolio)Tj
+/T1_0 1 Tf
+14 0 0 14 10 154.5029 Tm
+(Fortunately, there are important special cases in which the Sharpe Ratio\ will provide sufficient )Tj
+0 -1.2 TD
+(information for decisions on the optimal risk/return combination: one in\ which the pre-existing portfolio )Tj
+T*
+(is riskless, the other in which it is risky. )Tj
+/T1_1 1 Tf
+0 -2.574 TD
+(Adding a Strategy to a Riskless Portfolio)Tj
+/T1_0 1 Tf
+0 -2.54 TD
+(Suppose first that an investor plans to allocate money between a riskles\s asset and a single risky fund \(e.)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(10 of 19\)6/23/2005 2:\30:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+162 0 obj
+<<
+/Subtype /Image
+/ID 163 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 164 0 R
+/Width 252
+/Height 49
+/Type /XObject
+/Length 474
+>>
+stream
+H‰ì—ËÃ DùÿŸ¶=¶‰A£mÜEÛCGt">RJ’$I’$ôf•j5›{¥ÚÃÕj6÷Z3»ùcªÕü¤×Xş}zßš¡j59í}Í@t§jlŒEÃÖVíXŒøõ›°;cQëç8êWØ<…dXuó Yïçoó-?G÷‡)ÕİØóZùéÎèœu¶"y'ı#b{¯_2&ÄÒš*èİÒÛ=ÜšXÔCùdS¤“Ôgƒ]FoªŠğîdí,Ö‚`Ôy'õ§ûeŞQ‘ÔÙz²½s“£ªæAŒwi&¢¥MÇ?G\.c‡ğ)ö:½ü@üˆC*k¯[“_¦ƒ%©.ñÚºEÍy‡:*4Îv +=_
+„nğÎî6–wqq´64Õ,y«T®KA&¡¢ì›ÑçZ±Ç/8æ¦í}ò~]øBßè‰4ïºPxÔ¥£¾ùª‘B,ïE?+ëXOCÿ0Í6ï:Ú»7La%Z¾ËÄÁíÙÓRïş+‘İ2r¡_8íÙ¶ÌœwÕ‡Ì§½-Ì
+¢Ošv\œ–l0+ˆ~w»¸oWèî`B;‚'?/Ëô˜šO’$I’$I’$I~ÉK€ „Œè
+endstream
+endobj
+163 0 obj
+(5ZØNá\021nN\227ì\251\136\045ü0\273)
+endobj
+164 0 obj
+[ /Indexed /DeviceRGB 255 165 0 R ]
+endobj
+165 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+166 0 obj
+<<
+/Subtype /Image
+/ID 167 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 168 0 R
+/Width 120
+/Height 37
+/Type /XObject
+/Length 228
+>>
+stream
+H‰ì•áÃ „yÿ—vËWã”„¸˜x?ÚFë}Šˆ­]]I×¿'r¢pĞH(kÂ,ÆëÙ<S:"ğøÑ>Ã§`×#½ıÖÏ8œ`¹|ÄpC£®P.rz7‚fÑ?,œñ,÷IŸÁ^ü	î÷sI<md¹MG(ÅíaFÎ¸A›Æú8‹ïˆ	}.pq\×;å¢…kÏªXÙÄŒ¹&9ÇšƒË!Üu5íñiHªaÍ-KÓ0×“€Â*Cí°¼†¤ïßel‘Ï!\p¤6r·c£*³«ÌÕÕÕÁz	0 ¯8©
+endstream
+endobj
+167 0 obj
+(WŞU\043pÙæ\027¼ãH1n\236\017\014)
+endobj
+168 0 obj
+[ /Indexed /DeviceRGB 255 169 0 R ]
+endobj
+169 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+170 0 obj
+<<
+/Subtype /Image
+/ID 171 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 172 0 R
+/Width 183
+/Height 39
+/Type /XObject
+/Length 358
+>>
+stream
+H‰ì—á®Ã …yÿ—vÙ\ğhg²İ?LãğğD»RÒÒÒ~İ¨Ù-ŸÿkNN¾<UKÚjkr#Õ_Ü!/×Õ$Ñ5Ö@/‰ˆ»ÎN¢ >Òw¹¨E¨Ø" ©EbŒH–°7“]9ÑQºï`ÛÛn®7®‰±µ;{„§›Âè!øàTØÂ6eu@/t—£Òqã­I¤§Ø"š/êùtÁ¯1GJbéì®bäØ^Ì[½ñ2¶‚B²=d`{ïÀó×j]<ç0 ~Â÷QÛÂ¥|lÎ•¼nìAÚ{³b°Ê“„¹u¡clqµ_6³ÃáŞÛŠ4ó1+Còg•:‹ÎÂ: è{ğ@'—ü"lDö6…9ñ(ïa£g\èçu+ =w3©‘ëDØ0äûa7òIl@z3²u~È¬ëÁqÚÓ>H}yï‰Ç'É¦._*áÁ¿üoK,=´IÒÒÒÒÒÒş¬= Ëë]
+endstream
+endobj
+171 0 obj
+(\023x\216\213E\256\030cJ4\220x\204ô\233\231)
+endobj
+172 0 obj
+[ /Indexed /DeviceRGB 255 173 0 R ]
+endobj
+173 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+174 0 obj
+<<
+/Subtype /Image
+/ID 175 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 176 0 R
+/Width 152
+/Height 37
+/Type /XObject
+/Length 288
+>>
+stream
+H‰ì–ÉÄ Cıÿ?9t3‡ˆ.h$|èŒ ÀKšº5[ZZÊ—nÅüµü´ŞL6UIì¡GğùëïØ¿A‰P¬:é¸n[ÑA;ùöbÀüpíĞˆ‰jƒ®ñ±Y®¨\Ì8spµK.„\ÎŠ;·‘qö~Q;\õËå¶téXªí®zLrÕÏ£ËåØ!4ƒš«z’‹+ZVSøQ3=ÂUÜÇD½Ø"c®Æ.4—u²å˜¢Õ¸8İ€«q …îx‚1N'W_añ;Ämãş@7Æ©-| ¼Û,˜§®“2Á®ÌÚ×¸´å¦–¾Ç5şı•0³XÃÊ|+OáJ<«õô¥”ÇyAß‰\8šÑ`KKKKsô` wš
+endstream
+endobj
+175 0 obj
+<9fa863c911487a1e898f9624f68395e2>
+endobj
+176 0 obj
+[ /Indexed /DeviceRGB 255 177 0 R ]
+endobj
+177 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+178 0 obj
+[ 179 0 R ]
+endobj
+179 0 obj
+<<
+/Rect [ 349.556 749.6 388.434 764.6 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/D [ 3 0 R /XYZ 0 792 null ]
+/S /GoTo
+>>
+/PA <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057sr\056htm\043Sharpe66)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+180 0 obj
+<<
+/Length 3174
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(g. a "balanced" fund\). This is, in effect, the case analyzed in )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+349.556 751.859 m
+388.434 751.859 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 349.556 753.9756 Tm
+(Sharpe)Tj
+0 0 0 rg
+( [1966,1975]. )Tj
+-24.254 -2.7 Td
+(We assume that there is a pre-existing portfolio invested solely in a ri\skless security, to which is to be )Tj
+0 -1.2 TD
+(added a zero investment strategy involving a long position in a fund, fi\nanced by a short position in a )Tj
+T*
+(riskless asset \(i.e., borrowing\). Letting R)Tj
+11.2 0 0 11.2 238.256 678.9916 Tm
+(c)Tj
+14 0 0 14 243.2288 682.5756 Tm
+( denote the return on such a "cash equivalent", equations \(1\) )Tj
+-16.659 -1.664 Td
+(and \(13\) can be written as: )Tj
+ET
+q
+141 0 0 42 10 593.5071106 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 151 593.5071 Tm
+( )Tj
+-10.071 -2.457 Td
+(and )Tj
+ET
+q
+150 0 0 43 10 492.3315582 cm
+/Im1 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 160 492.3316 Tm
+( )Tj
+-10.714 -2.457 Td
+(Since the investment is riskless, its standard deviation of return is ze\ro, so both the first and second )Tj
+T*
+(terms on the right-hand side of equation \(18\) become zero, giving: )Tj
+ET
+q
+116 0 0 38 10 379.3560028 cm
+/Im2 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 126 379.356 Tm
+( )Tj
+-8.286 -2.457 Td
+(The investor's total risk will thus be equal to that of the position tak\en in the zero investment strategy, )Tj
+T*
+(which will in turn equal the risk of the position in the fund. )Tj
+0 -2.557 TD
+(Letting S)Tj
+11.2 0 0 11.2 61.73 288.772 Tm
+(F)Tj
+14 0 0 14 67.9572 292.356 Tm
+( represent the Sharpe Ratio of fund F, equation \(21\) can be written: )Tj
+ET
+q
+156 0 0 42 10 220.0875549 cm
+/Im3 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 166 220.0876 Tm
+( )Tj
+-11.143 -2.457 Td
+(It is clear from equations \(24\) and \(25\) that the investor should ch\oose the desired level of risk \(k\), then )Tj
+0 -1.2 TD
+(obtain that level of risk by using the fund \(F\) with the greatest exce\ss return Sharpe Ratio. Correlation )Tj
+T*
+(does not play a role since the remaining holdings are riskless. )Tj
+0 -2.557 TD
+(This is illustrated in the Exhibit. Points X and Y represent two \(mutua\lly exclusive\) strategies. The )Tj
+0 -1.2 TD
+(desired level of risk is given by k. It can be obtained with strategy X \using a relative position of p)Tj
+11.2 0 0 11.2 556.322 95.9035 Tm
+(x)Tj
+14 0 0 14 561.922 99.4875 Tm
+( )Tj
+-39.423 -1.664 Td
+(\(shown in the figure at point PxX\) or with strategy Y using a relative\ position of p)Tj
+11.2 0 0 11.2 470.404 72.6107 Tm
+(Y)Tj
+14 0 0 14 478.4904 76.1947 Tm
+( \(shown in the figure )Tj
+-33.464 -1.664 Td
+(at point PyY\). An appropriately-scaled version of strategy X clearly pr\ovides a higher mean return )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(11 of 19\)6/23/2005 2:\30:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+181 0 obj
+<<
+/Subtype /Image
+/ID 182 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 183 0 R
+/Width 141
+/Height 42
+/Type /XObject
+/Length 277
+>>
+stream
+H‰ì–[!EÙÿ¦mì¤ŠÊœ‡¦îO ˜¦
+½ODtünæÈÊ_œf$5‘Ûyr‡äœF9äsPn¸¨4ãÌ!=’éSŠ€~	è ‘,¤/ñøPµç!Õ9å5 ‹cù0K‰]kaH‡£Ò³¯Ä\Û”¨ÅNÄ3ÒÎ_Ó‡Ù„ûWÂ³yº¯åÃa†Á0Ííùa–¦+¶‰@S0í¨¶qòš›•ãİ)».‰>Î N9ƒÔ.~V
+‹Üõå;Ú7û1¦÷0÷=é£,7Y;šKÁáî|Å×şĞö`áiÇÚ/9'G %ŞHï„ñZ•2JJzç…B¡ĞJ} 8zÆa
+endstream
+endobj
+182 0 obj
+(M\266a\010\016\175\221Â¹IÆ\270GÑ\206\043)
+endobj
+183 0 obj
+[ /Indexed /DeviceRGB 255 184 0 R ]
+endobj
+184 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+185 0 obj
+<<
+/Subtype /Image
+/ID 186 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 187 0 R
+/Width 150
+/Height 43
+/Type /XObject
+/Length 318
+>>
+stream
+H‰ì—[ƒ Eïş7MG-†¨µvš|T††›C ¥¤¥¥İg ¶ç#dªÚªxZî"™Vfúm™ß5}â÷¥CÍü¾*}CW ¢ñQ4¨Z-ˆöì¿¦|\*ÂÒõ¹™ˆ2Le¦ŠSÔÆµTæ+ULO'$-àŞ±Tš`r¨ÔBÚ7|º¨õDVƒÈ&DÒ¸tT0†O	vâ[*ÑyU—ËúSyR±¨q®”GÕbT,äø†°¨¤@°Mu-?»ÚÅ7«Ú¡¢Z/ÆlîlDP•ØÛ¥>’Šnw$•]»W™:ÑxĞŸ¨ğ@õ.WzªŸ»„w}Æ‡Ú‡¡|7Íaî%gŞÂ×¨Fwƒ>Ê:—z[ìaºÜJFg¥‹õ¿ŸhiiiiiO·—  ¦ğ¬—
+endstream
+endobj
+186 0 obj
+(\057\136T5hã\222Äş\002OµĞî\022Ö)
+endobj
+187 0 obj
+[ /Indexed /DeviceRGB 255 188 0 R ]
+endobj
+188 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+189 0 obj
+<<
+/Subtype /Image
+/ID 190 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 191 0 R
+/Width 116
+/Height 38
+/Type /XObject
+/Length 215
+>>
+stream
+H‰ì•I„0E¹ÿ¥µµ¢2š+şÂ²x!D²m­V«"(™s)ƒ`^è7Ş¦ äIåÌ	h€„ÛçFáË"¦Äÿ,Xğ&<˜@ŒZ¡p)`Ú.Œ‰î6ó0©¹ØZ,'™;ë0Iû¹HÆÄ‡Ã4ì2«ç@~ÊË›4ë
+“Gåî?¢e2õe“Ud˜zy“™•üQ©lc$J;¶²W3wˆJßHşúäğ˜¹ğÓÊI"_MÈ‰û3‚ÿWj*-@~Ëœ¾ÚëÄ1ç>oh«ÕjÍh`  Ï;¦
+endstream
+endobj
+190 0 obj
+<649e5c47ae1f7f2635da3a92d2bcae91>
+endobj
+191 0 obj
+[ /Indexed /DeviceRGB 255 192 0 R ]
+endobj
+192 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+193 0 obj
+<<
+/Subtype /Image
+/ID 194 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 195 0 R
+/Width 156
+/Height 42
+/Type /XObject
+/Length 313
+>>
+stream
+H‰ì–QÃ „ùÿz{ÑîPà°¡i²p[Óô‘úù´Z­?”üô6Êû²Sğ\br.cÀ2¯Ì™¥g˜™¿3Ü7È'™yì¼ˆ&9ZÓeŠ°“ÅÆÓ†˜"Æ³¶=,a“•KÅJÜı%E¤ñV·û`ØÖ «Bt×s<È¶Ş#l°–>Ÿ­ëÙn2¶-LæUç4Ú
+fá³©5¥y¸‘aSÆ˜ÍšFè¡löG?W—ö÷éÖÜšwÙdâ©‚9ØYWYg
+$KÅHÂc±èUÛÙr½Ï³	H‰<kÃ¹C‡·ı½Á‰ ”ÃŸwp±GçĞHgÏÅIûò¢G¹ôë`cï?b+•×Çn¼²šMÔŸkÉ–[¡ŒNm»ò±Z­V«Õjë+À RÜ
+H
+endstream
+endobj
+194 0 obj
+(ËT\001M\072öcÓ\175u\201k\264\072\205\253)
+endobj
+195 0 obj
+[ /Indexed /DeviceRGB 255 196 0 R ]
+endobj
+196 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+197 0 obj
+<<
+/Length 2381
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(\(shown at point MRx\) than an appropriately-scaled version of strategy \Y \(shown at point MRy\). )Tj
+0 -1.2 TD
+(Strategy X is hence to be preferred. )Tj
+ET
+q
+549 0 0 323 10 390.3999939 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 559 390.4 Tm
+( )Tj
+-39.214 -2.457 Td
+(The Exhibit shows that the mean return associated with )Tj
+/T1_1 1 Tf
+(any)Tj
+/T1_0 1 Tf
+( desired risk position will be greater if )Tj
+0 -1.2 TD
+(strategy X is adopted instead of strategy Y. But the slope of such a lin\e )Tj
+/T1_1 1 Tf
+(is)Tj
+/T1_0 1 Tf
+( the Sharpe Ratio. Hence, as )Tj
+T*
+(long as only the mean return and the risk position of the zero-investmen\t strategy are relevant, the )Tj
+T*
+(optimal solution involves maximization of the Sharpe Ratio of the zero-i\nvestment strategy. )Tj
+0 -2.557 TD
+(Consider, for example, a choice between fund XX, with a risk of 10% and \an excess return Sharpe Ratio )Tj
+0 -1.2 TD
+(of 0.20 and fund YY with a risk of 20% and an excess return Sharpe Ratio\ of 0.25. Assume the investor )Tj
+T*
+(has $100 to invest and desires a level of risk \(here, k\) equal to 15%.\ )Tj
+0 -2.557 TD
+(The optimal strategy involves investment of $100 in the riskless asset p\lus a zero-investment strategy )Tj
+0 -1.2 TD
+(based on fund YY. To make the risk of the latter equal to 15%, a relativ\e position \(p\) of 0.75 should be )Tj
+T*
+(taken. This, in turn, requires an investment of $75 in the fund, finance\d by $75 of borrowing \(i.e. a short )Tj
+0 -1.2 TD
+(position in the riskless asset\). The net position in the riskless asset\ will thus be $25 \($100 - $75\), with )Tj
+0 -1.2 TD
+($75 invested in Fund YY. )Tj
+0 -2.557 TD
+(In this case the investor's tasks include the selection of the fund with\ the greatest Sharpe Ratio and the )Tj
+0 -1.2 TD
+(allocation of wealth between this fund and borrowing or lending, as requ\ired to obtain the desired level )Tj
+T*
+(of asset risk. )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(12 of 19\)6/23/2005 2:\30:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+198 0 obj
+<<
+/Subtype /Image
+/ID 199 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 200 0 R
+/Width 549
+/Height 323
+/Type /XObject
+/Length 3210
+>>
+stream
+H‰ì—ëš«  yÿ7î/v«UE@r™ùö´=Š`É4‰ZwZÑê÷ßãÃò·\o¼v«ğÊ~w%1>ƒa.”õAi$Êü¤4’À£ÏXßÖÃîI´F’Y1â®”q€L;”Bã
+A”ı®NlmªGW       èå¼{ÆX§ÕŠg&ÿĞ:Ğ(gIÎa<Ir;SÜzÎcØ;ü‚BğbHòı¤¾µä÷i­+ú'ÉoÜşbüg¶Ï°ĞÖ5GuZçÚµ3Î­“,«¯Ÿ´yÛI}®sPšÍˆ#ÄÖ§ãˆ)‰2íÙ†Ù×Y×j©MH÷œ1ß>ÆĞĞ¹5¨É$Z™9âQšŒ˜9r]Ùv:h›hŸwO*sÔdûU3I‚$ÚÌ3[EQÊås/2Ošg(7Õ‰—d/aI´sVK·v8yì8yJQP;"Fq‰‘Ä¨ Ê¹î,‰›Iœs'EıåI*£Ì{Ø¶O¿‡+Ì[0zÎ£$ì×iëçéæòÜöæÜ’²şK¹i¢!på              dP091’×šI ’@$ HAîXmü¨5ôH>Ôx$kÔv$+”t$3Ê9’€‹Z0Ä\Tên Aşıøüƒ$àã›AJK‚O]³$/[‚$àáhUK7®HÒ)ê.rHE‚Š 	A’Ù‰PIæ&J$™™HEd^¢A’YIPIæ$I$™‘kE”õvuê~Ò„õã‡Â;ø²’À›B£ö—Ë3¡‰î!~(Ôç¾Q¾ø!É<ÛÕ@%º¿6á>|¾–.ÄÏ¢Dl}’¤NrÄü:_+7¿›SÇ`I}¢ø{ë•$ş»KìBüc‹«ñ7Ó–/7j{=Ê7¯Á%v¡N”$¶lD’ãAÿš„¿”L,²Ó×-_I’Øvn³#:í3’tÀ^n¶]Œì2¤v¹‚$N’òK€…Sz •Ûâú’Y"9öÊ¬8÷—HîoiI@ G’ğL¸œ#I(ãƒº{V]Oˆw|HÒÊ|W÷’”x&@’¡(óØˆ$QF$ˆRŠ É(¨…R“I
+‚(õùIÀË
+A¸c©2H~~H_’,ƒ·&Š÷:ï4®à£ÜC¯³Ğ˜ô¡ÉÚ‹TYIhLúPÈbëEª¬%4&}(d°$kŒ^IàŠZíª±¢Ğ˜ô¡ğˆúŠ Ig¼¡’tÅ…"ô$`r™EJo¸ú®Š$à)4E7\ıE’.x¡QÇšHÒ¯(bş'æ‚„¹So‚ÔWD9K"Iã‘ßp×ÈEä5‚YDxÃ/‰\I^"¢Ğˆn¸o=$i–Ê½ÈuYOÅ\°RüP¸¥®"7†h$i”ÚŠÎÇÌ‘°\üPğ’ Hş†ß'‘èE¤*IY$sÃ#‰\I*’Xhr6<ÎÈE¤{áš†$•¨§HtYGñUÇ»ZˆŸk6ªíMrjJ’:ÙT<T$ıªåJâ¤‡³$jSñ+ÎÆó›š-”)‰z"	)Å&§Î$µOÊ•$4tUBYåILn"çù>Ú¹œv0;“†š’ìßY]œ“ÛĞ9¿¦IòšââåæH#Ê8‚$Ø¹]ÜÃœıLùŠ${_27ÁØm;fju5än‘ü­Î}º	5ª’XDo“ãÈ §L"`Hx‘Ğ˜ˆÆÕ•„bó%*zM\pÃíËŸİÜi¢¼1ÁÆ5cÙ‰ŒÕŒ$6$b†D.šÓ“<_u\¢Ãgî«ÛÄVİá7$‘ı½‘ğíJ"¾¿¥W°I
+ :7~‚HR“çô]¸Ë£Ü¤.È;=ÉœdDĞ{å.Éçó)VÆ‘¤9Š„/ıFáÓ¨$ëy$	R¶YÿòM%¥¦—ƒ$Š*²dò–%¡ÜDPR‘móËu­ZHwèvŒ÷ÿ÷å¯ì:¥)7†ÎAÁ(®e¦ØôæJyc”3 I,Š*RlêóZ9cÔFÒtÓP.•ÊÌ¾\Î˜“#HrP®¬kˆ*7iÓMA©@º†ôĞ“d™rŠœ”Y(}‘»1ËC^ÚtÃSH‘Ë2Óƒ$KGBãjRF‘úˆ¹xŞµı%L74¥)1küòycÄ¢H0_M"ëäAƒÁÒKO¢èI¾P$"‡ô ‰¶™W’"ŠÄ_öá"	72©$òŠ¼ßˆˆH2y¹gS†è\I¾_fö¤€"Âf“%‰rûÖù$‘hji¾'YóHòt!¬Èƒ2Ó¾$ç“SI"«È³FIZF¸¹l¯1@’G´Dê$Š©:7şm’×¸¾eóßW ± ªÏç“;Yû=ÉŒ’şî¿;÷]’¼¡]"«Èç›J2g‘¹™üEä‡œ"Kö•¤
+H¤"¿·ºV$ÑÈµ«]xa$QHVÜz’VSDfsJñ.r7Æ©«#J"Ú2e¦IÔğ’È„¶ÃFÄ W’Óõ„Hlû6Dd’ôéúAHIŞ…rãE"ºÅ“=É›D·F™éA’Œ¡M#¢ˆÀ}„Wie‘à˜Ñ2I~|»ïU-r%°ÜdÇw,C4=É‰Ü gˆÎ—d99$ùŠDrŞsÌŸBf‘i$ÉT$:‰ I·ä)’Tf”ñšG’Ó“ä*’8^÷´WÙO7öO¨Ÿ/n“¥È“^Uõ´U¹’<Ú9Š<}šéi§$G‘Œç]¡ê¡'Y¶©ër“¥HÎº×ÊO“¿H qÕ7®™ ¯ÓJ’í/aºvxç\Ct_;5±$ŠˆŞGûL+ÉÓH$‘îèIT‡=ÉÓçÖæé¡'Ñ¶#Hò,Ôí¢;‘äùĞ×xªˆô}ˆ€$%xì&“H=r$Q;IÓ½É“`OnˆK’GÑŞ[n”»ïïè˜I¤‹ÄÑ¤Ù=}íöÑHâhÒè¶¦‡»C4’ˆñD‘÷Ñ-ã—›ä€÷’Dê1zãšp¹ Gµ“4]EÒ)såh¾'i]’Äw™Dš—$ohiÒBŞ¥!I²HŠy¯†ÔbLI)vƒ0¢$)Q'‰D0$	QÀz’$)Rğ>j$ÉÄÇ}€$²€$‰DÇ}Cj1$±ÇdF‘$^‘²÷1$cHú“=Iì¢Q«hˆF’Ø%#)}ï€$1F}Q©Dß’ÄC²éY’ˆècˆıJ¥H…ûxz’»…‚+Í‘DÄ¿Lh9ÑHâ_$¬HÛ˜‡ş$	0M©Go’Àô%É½3BOâNP¤äÚ­‚$öÔwsÏ˜DÄœøfæi©E’Ü+RfMØéA’H"5h_¿BO²Ìçõ Cä.‰ˆ.Ô/³KBi…f%ñ‰€!õiT¿"B@MJâQ$rfÖäZ¹dNI.]À3JâQ$sVÈ£)I®l ‰¼OC’\Ø€!MĞŒ$—Š<mfêIÎ>D¢˜G’“Ë,’¸B`Hk¼.ÉY‘ä) 0/Kâ(Ai’W%±•ÀŒŞ“¸Š$\
+cKbIAyÊÈ’˜R`Hë¼"‰a†tÀ’XŠÄO¯Q]’Ã’ˆ #ö$»"Ãx’ŠÄO	wŒ&ÉfI¤7ªIò3C:¤’$«Ò'U$Ù‰Ÿ"¥'Yä ‰”aI¾r`H1FdU$å† =ŠJò¯Id 
+J¢†ŒA1I0¤
+=÷$R‰~%A‘jt)	AQIxŞiI`@‚ 	A‚$I È|’¨…ÀÛÃêfŠÓáÀR]0$kĞ¾¯şğ%¹1Ow ‰wŒ÷ğï=¬ ’tÊ¸µbl…c/ Ê=bŒ»Dm§GìƒÎmLÒÓI¢÷8íÁıt? NgÛ…Îõ–$Æ¥U:c>Iôîã·}OëŒñ¢/%q¯÷Lz_åšeJInÂg8is\¼Ÿ¼ğá~R1Iê…e:IìÆ5_’cŞëK‘¤C"$q{m¶§pªÓù
+$é“ã9Å¬§~Â:c^eÔ˜í³Şf³æXg<è’Ô	Í|’ƒª$éU-0HÒ-J¬pWÕ¡Ü@W¢ö—*+	ŒA‚$I ’@$ HA‚ 	A‚$I ’@$ HA‚ 	A%	LNq ôŸ  Q®ès
+endstream
+endobj
+199 0 obj
+(ìç\017\231\200\045å\002\273Ùßºİ\244¼û)
+endobj
+200 0 obj
+[ /Indexed /DeviceRGB 255 201 0 R ]
+endobj
+201 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+202 0 obj
+<<
+/Length 3934
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_1 1 Tf
+14 0 0 14 10 753.733 Tm
+(Adding a Strategy to a Risky Portfolio)Tj
+/T1_0 1 Tf
+0 -2.54 TD
+(Consider now the case in which a single fund is to be selected to comple\ment a pre-existing group of )Tj
+0 -1.2 TD
+(risky investments. For example, an investor might have $100, with $80 al\ready committed \(e.g. to a )Tj
+T*
+(group of bond and stock funds\). The goal is to allocate the remaining $\20 between a riskless asset )Tj
+T*
+(\("cash"\) and a single risky fund \(e.g. a "growth stock fund"\), accep\ting the possibility that the amount )Tj
+T*
+(allocated to cash might be positive, zero or negative, depending on the \desired risk and the risk of the )Tj
+T*
+(chosen fund. )Tj
+0 -2.557 TD
+(In this case the investment should be taken as the pre-existing investme\nt plus a riskless asset \(in the )Tj
+0 -1.2 TD
+(example, $80 in the initial investments plus $20 in cash equivalents\). \The return on this total portfolio )Tj
+T*
+(will be R)Tj
+11.2 0 0 11.2 61.338 561.1916 Tm
+(I)Tj
+14 0 0 14 65.0676 564.7756 Tm
+(. The zero- investment strategy will again involve a long position in a \risky fund and a short )Tj
+-3.933 -1.664 Td
+(position in the riskless asset. )Tj
+0 -2.557 TD
+(As stated earlier, in such a case it will not necessarily be optimal to \select the fund with the largest )Tj
+0 -1.2 TD
+(possible Sharpe Ratio. While the ratio takes into account two key attrib\utes of the predicted performance )Tj
+T*
+(of a zero-investment strategy \(its expected return and its risk\), it d\oes not include information about the )Tj
+T*
+(correlation of its return with that of the investor's other holdings \(r\ho)Tj
+11.2 0 0 11.2 395.532 451.6987 Tm
+(Id)Tj
+14 0 0 14 404.8616 455.2827 Tm
+(\). It is entirely possible that a fund )Tj
+-28.204 -1.664 Td
+(with a smaller Sharpe Ratio could have a sufficiently smaller correlatio\n with the investor's other assets )Tj
+0 -1.2 TD
+(that it would provide a higher expected return on assets for any given l\evel of overall asset risk. )Tj
+0 -2.557 TD
+(However, if the alternative funds being analyzed have similar correlatio\ns with the investor's other )Tj
+0 -1.2 TD
+(assets, it will still be optimal to select the fund with the greatest Sh\arpe Ratio. To see this, note that with )Tj
+T*
+(rho)Tj
+11.2 0 0 11.2 28.662 342.2058 Tm
+(Id)Tj
+14 0 0 14 37.9916 345.7898 Tm
+( taken as given, equation \(18\) shows that there is a one-to-one corres\pondence between sigma)Tj
+11.2 0 0 11.2 563.2576 342.2058 Tm
+(A)Tj
+14 0 0 14 571.344 345.7898 Tm
+( and )Tj
+-40.096 -1.664 Td
+(k. Thus, for any desired level of asset risk, the investor chooses the c\orresponding risk position k given )Tj
+0 -1.2 TD
+(by equation \(18\), regardless of the fund to be employed. )Tj
+0 -2.557 TD
+(But, as before, the expected return on assets will be: )Tj
+ET
+q
+161 0 0 40 10 206.1213379 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 171 206.1213 Tm
+( )Tj
+-11.5 -2.457 Td
+(which can be maximized by selecting the fund with the largest Sharpe Rat\io. )Tj
+T*
+(The practical implication is clear. When choosing one from among a group\ of funds of a particular type )Tj
+0 -1.2 TD
+(for inclusion in a larger set of holdings, the one with the largest pred\icted excess return Sharpe Ratio )Tj
+T*
+(may reasonably be chosen, if it can be assumed that all the funds in the\ set have similar correlations with )Tj
+0 -1.2 TD
+(the other holdings. If this condition is not met, some account should be\ taken of the differential levels of )Tj
+T*
+(such correlations. )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(13 of 19\)6/23/2005 2:\30:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+203 0 obj
+<<
+/Subtype /Image
+/ID 204 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 205 0 R
+/Width 161
+/Height 40
+/Type /XObject
+/Length 319
+>>
+stream
+H‰ì—ËÃ DçÿšnL2æqzÒ2‹ÖZÄ+"&"¥Ò…®K6¿¥`O.)¶hCú Öt0{GØØ¹SìXÒ]ûãbxŞº1_‹
+Ô§ÍÑwÂÌÆ 2ì<ên@ø<€PL2“ŸÜaÍÕ²4;-P¶œ…óoáåŒ­|Ñ1€c_
+¨vxëõHrŸ±‚Â¡3ì¿Ÿ Ô1Fšé Ôïu@³ÅD¡:8ÀfJJ²~mcÒq]ßĞ~¶29$‡­Á))¢±°ßCˆojœ+œ!‡Ú8ÑŞO£	†?ãôÚ&®tğ`Á)MÜS¾‘]Œ=®ïŒ€ÖºG“ì&È½°®ÖÅ<Ö X¼[Qa85ñ€0_ç½Ÿ¯—ãi!%_=ÿèµT*•J¥÷è#À {€~Å
+endstream
+endobj
+204 0 obj
+(L\006\204\266\100R\052ÎOŞx\221\042\250\043\225)
+endobj
+205 0 obj
+[ /Indexed /DeviceRGB 255 206 0 R ]
+endobj
+206 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+207 0 obj
+[ 208 0 R 209 0 R 210 0 R ]
+endobj
+208 0 obj
+<<
+/Rect [ 280.382 594 362.8 609 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/D [ 3 0 R /XYZ 0 792 null ]
+/S /GoTo
+>>
+/PA <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057sr\056htm\043Treynor)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+209 0 obj
+<<
+/Rect [ 98.648 558.4 142.202 573.4 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/D [ 3 0 R /XYZ 0 792 null ]
+/S /GoTo
+>>
+/PA <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057sr\056htm\043Grinold)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+210 0 obj
+<<
+/Rect [ 24.392 489.916 35.592 502 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/D [ 3 0 R /XYZ 0 792 null ]
+/S /GoTo
+>>
+/PA <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057sr\056htm\043Sharpe92\076Sharpe\074\057A\076\040\040\1331992\135\056\040\040Note\054\040however\040that\040the\040key\040results\040apply\040to\040all\040\040\040\040\040three\040\040\040\040\040\040cases\056\040\040\040\040\040\040\074A\040HREF\075)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+211 0 obj
+<<
+/Length 3170
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_1 1 Tf
+14 0 0 14 10 753.733 Tm
+(The Choice of a Set of Uncorrelated Strategies)Tj
+/T1_0 1 Tf
+0 -2.54 TD
+(Suppose finally that an investor has a pre-existing set of investments a\nd is considering taking positions )Tj
+0 -1.2 TD
+(in one or more zero-investment strategies, each of which is uncorrelated\ both with the existing )Tj
+T*
+(investments and with each of the other such strategies. Such lack of cor\relation is generally assumed for )Tj
+T*
+(residual returns from an assumed factor model and hence applies to strat\egies in which long and short )Tj
+T*
+(positions are combined to obtain zero exposures to all underlying factor\s in such a model. )Tj
+0 -2.557 TD
+(In particular, this is assumed to hold for the "non-market returns" whic\h are the residual returns in one-)Tj
+0 -1.2 TD
+(factor "market models" of the type employed in )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+280.382 596.259 m
+362.8 596.259 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 280.382 598.3755 Tm
+(Treynor-Black)Tj
+0 0 0 rg
+( [1973]. It is also assumed to hold for the )Tj
+-19.313 -1.343 Td
+("active returns" that constitute the residual returns in a model of the \type used by BARRA \(described, )Tj
+0 -1.2 TD
+(for example, in )Tj
+ET
+98.648 560.659 m
+142.202 560.659 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 98.648 562.7756 Tm
+(Grinold)Tj
+0 0 0 rg
+( [1989]\). )Tj
+-6.332 -2.7 Td
+(Most germane, perhaps, for selecting funds, this is assumed to hold for \the "selection returns" that )Tj
+T*
+(constitute the residuals from the asset class factor model used in the s\tyle analysis procedure described )Tj
+0 -1.304 TD
+(in )Tj
+ET
+0.564 w 
+24.392 491.807 m
+35.592 491.807 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+11.2 0 0 11.2 24.392 493.5004 Tm
+(10)Tj
+0 0 0 rg
+14 0 0 14 35.592 489.9164 Tm
+(: )Tj
+-1.828 -2.557 Td
+(Under the assumed conditions, the counterpart to equation \(13\) is: )Tj
+ET
+q
+191 0 0 53 10 377.3408813 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 201 377.3409 Tm
+( )Tj
+-13.643 -2.457 Td
+(where p)Tj
+11.2 0 0 11.2 54.702 339.3569 Tm
+(i)Tj
+14 0 0 14 57.8156 342.9409 Tm
+( represents the relative position taken in strategy i and d)Tj
+11.2 0 0 11.2 370.4356 339.3569 Tm
+(i)Tj
+14 0 0 14 373.5492 342.9409 Tm
+( represents its return. )Tj
+-25.968 -3.021 Td
+(Letting sigma)Tj
+11.2 0 0 11.2 87.392 297.064 Tm
+(di)Tj
+14 0 0 14 96.1056 300.648 Tm
+( represent the risk of position i, asset risk is given by: )Tj
+ET
+q
+206 0 0 53 10 217.3795624 cm
+/Im1 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 216 217.3796 Tm
+( )Tj
+-14.714 -2.457 Td
+(and expected asset return by: )Tj
+ET
+q
+176 0 0 47 10 112.2039948 cm
+/Im2 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 186 112.204 Tm
+( )Tj
+-12.571 -2.457 Td
+(Adding subscriptions to equations \(21\) and \(18\), and substituting th\e results gives: )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(14 of 19\)6/23/2005 2:\30:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+212 0 obj
+<<
+/Subtype /Image
+/ID 213 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 214 0 R
+/Width 191
+/Height 53
+/Type /XObject
+/Length 400
+>>
+stream
+H‰ìWáƒ äı_zû¶¦)xj[µû#å	'	Õã‡BD¶ñÇ«ÑåícÁÁ’ãåèŸÍËñÉg-úÂÊÑé¹£^~Ò’ÆlcŸyŞ‰ësd! H:ª•W¼ÜŞÍI3Ëò‹<¿ÌZ7ôÎ´Ä.GÔè’8Ê.¶5F¤9¥Íbtä+gG ¹\U¯;~¥¤Ê‡W×¢U•bØÍ[®8ÈD€‰îUQ{MXªÕ1OXéƒÖòu¯[Y«Š—_‰c²/í„R?"¿Xß—ïœá†S•ÙyæÎNÖWÕ];­Å;„İ×’_î§hSç¡:4Vğ6dFı)C·Í­‘ºÂqv2…gêØ¼·üSåÊgVOÈo>ÙŠí4¯³q÷İ™’2“}‡‚jzÊ?·C£ÚêMìêyŸì£~*Ÿˆp]ùT×¸¬|İ5<ïSœË±¿œœDmèŞeà@Djs¬éëáŞòï­>äŸŠ{ËÿŞçÌOp÷¾À  ¢f
+endstream
+endobj
+213 0 obj
+(\016ÅOïº\214D\273\214¾\236õ\030Ozğ)
+endobj
+214 0 obj
+[ /Indexed /DeviceRGB 255 215 0 R ]
+endobj
+215 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+216 0 obj
+<<
+/Subtype /Image
+/ID 217 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 218 0 R
+/Width 206
+/Height 53
+/Type /XObject
+/Length 487
+>>
+stream
+H‰ìWÛ–„ ëÿÿ´;•ZRH{˜KvÓK ­Î¶-,,,,(È£XŒEÜS$èËÿc÷út?„ÅXÄ=…ÁyçàY,5¨YŒÅÿ:Ï‹:ÅXpbÎI^F:“B^Œü’bIşşÃ¦*³çÅıöâI!ˆœ·¢µÒt÷–a‰ùOXôâ‰æ5½]Ï‰AWœß¾£FIÚœ"hT;Åxù®t`ÀÅ«ó=§ |ª–ÜÂ3ªËÚ®ëWîÙn<œƒ½ÔÛ€vªNÂóÊLş‹4`ÅÅ»²•cÑ‹@³N²lÙ eFMí©\ƒº?§€5„Ã®œé¨eyS eÆkªÙ]‘j ‹÷Šm‘²fŠBÉ[ï«[iW±»o¯¹œ´=5ŞàÆ”ÉqéÖ³¨©X8[äî|Fc°/#—ÃL<ÒMuß¬¥f¸–š–]áäÔT_îtĞ6İhîcRùÕ ¹bgÌ[Î3¥¾9XO=~èMš ç?š@k{ã¿bƒa¿«&è+5YÉ>¶xõ¨|HÔ^é½Æa¿æµ…ïê“•¶0 ÑÃşryÍª&…[‰™TM¶æTs³¶ÉŠ™SNRÍœb&İã,n¥fÖÈaÖXXXXø5ş ™.!
+endstream
+endobj
+217 0 obj
+(İ\046\220İ\136ÅSGj\137\014Åen½\246)
+endobj
+218 0 obj
+[ /Indexed /DeviceRGB 255 219 0 R ]
+endobj
+219 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+220 0 obj
+<<
+/Subtype /Image
+/ID 221 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 222 0 R
+/Width 176
+/Height 47
+/Type /XObject
+/Length 380
+>>
+stream
+H‰ìWÛ–ƒ0œÿÿi÷ì±‘„p™X»«§ÌC› ê¶
+…®Óèbd¾	Nş=8Îõàµ	5°	3}UÂØÚï~Çÿ’à'2mç_ˆj¡z„ÚUÂ
+d şC!oqâk;˜re`Œ2-j-æky'`÷TTÉü»’ñİ(¾f™Œä•œñË†©Sîjl!ßQ¯WŞãøwØóm+›+ùêfp_âc‘ç;°aâ‹yCÑùv':œ÷óp’RÙíl:t™*ÑÑ)=)6ïÂ•1ƒêWÂ7iw½÷³0vhA¹–LÆÔ§º›íıM+×ïƒv—%‚5Ã§Üâ™-‘8ÁwzßéøOÏáõ9¾‘ˆUˆœFÒP"Æh1;{zÌ7Ï¢ÅÏò%TŞˆ/UÛ÷á«k›±ŸëD0}òTxšßú@4-,¡‚W8°Xˆ7ÀÃø>Œnñı0Æ÷ÂWƒ?ÁãÚY¡ğ]ø` cC
+endstream
+endobj
+221 0 obj
+(\266c\267ñ6\025\2242\251a\235\267îãU\205)
+endobj
+222 0 obj
+[ /Indexed /DeviceRGB 255 223 0 R ]
+endobj
+223 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+224 0 obj
+<<
+/Length 1902
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+q
+186 0 0 51 10 715 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 196 715 Tm
+( )Tj
+-13.286 -2.457 Td
+(and )Tj
+ET
+q
+172 0 0 52 10 604.8244476 cm
+/Im1 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 182 604.8244 Tm
+( )Tj
+-12.286 -2.457 Td
+(Now, assume that the investor's goal is to maximize a standard risk- adj\usted expected return of the )Tj
+0 -1.2 TD
+(form: )Tj
+ET
+q
+157 0 0 47 10 482.8488922 cm
+/Im2 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 167 482.8489 Tm
+( )Tj
+-11.214 -2.457 Td
+(where tau represents risk tolerance \(the marginal rate of substitution \of variance for expected return\). )Tj
+T*
+(Substituting equations \(30\) and \(31\) in \(32\) gives: )Tj
+ET
+q
+275 0 0 52 10 355.8733368 cm
+/Im3 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 285 355.8733 Tm
+( )Tj
+-19.643 -2.457 Td
+(Since the terms involving the initial investment will be unaffected by t\he decisions \(k)Tj
+11.2 0 0 11.2 488.688 317.8893 Tm
+(i)Tj
+14 0 0 14 491.8016 321.4733 Tm
+('s\) concerning the )Tj
+-34.414 -1.664 Td
+(zero investment strategies, it suffices to maximize: )Tj
+ET
+q
+201 0 0 60 10 214.404892 cm
+/Im4 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 211 214.4049 Tm
+( )Tj
+-14.357 -2.457 Td
+(To do so, the partial derivative with respect to each decision variable \\(k)Tj
+11.2 0 0 11.2 410.862 176.4209 Tm
+(i)Tj
+14 0 0 14 413.9756 180.0049 Tm
+(\) should be set to zero: )Tj
+ET
+q
+173 0 0 45 10 104.7364502 cm
+/Im5 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 183 104.7365 Tm
+( )Tj
+-12.357 -2.457 Td
+(The optimal risk position in strategy i is thus: )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(15 of 19\)6/23/2005 2:\30:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+225 0 obj
+<<
+/Subtype /Image
+/ID 226 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 227 0 R
+/Width 186
+/Height 51
+/Type /XObject
+/Length 375
+>>
+stream
+H‰ì—Ñ„ EùÿŸngÖR(. V[³Ü‡+³ZË’J¥RÏ5MÙü»@fnLØàâĞêL»)ƒşr¢ƒA s´ı–y¾>z¹ëLëØT`=PáğÈ©)äl&Õ™Ø¯MfØìr­GS^†5İVÒgÈI)–!r–ÖZ,Œ\qŸ)R‡[­¢ÿbPÉÕæ“-‡”ğØ\›|mh¼ö‚5)²Ù'ºöæ>:g»–ÜØÕEtbœF.¸"9—År\Œnré†rêU±%zp†\¦›0ùa¿ƒ­àrbğ´õ›b§‡ag¾š£E<äÕêÙ¨ë#mOkğ˜Å{VÃDÚŞ›zv×Ãq G/ğŞu˜/r‘Çgğ8>8yÌx¦–ì@/¶‡’f$ùq×ƒF]3:w‡lİ˜ÌësÔÎó@ğ?Ê„¹}šVf4TWë>L¯%-x’ÿ@¯%¿æä½xSL¥R©Tê#À øã*Â
+endstream
+endobj
+226 0 obj
+(³\043\224\245\005\251\222\215ÓŞ\2116àëc\043)
+endobj
+227 0 obj
+[ /Indexed /DeviceRGB 255 228 0 R ]
+endobj
+228 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+229 0 obj
+<<
+/Subtype /Image
+/ID 230 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 231 0 R
+/Width 172
+/Height 52
+/Type /XObject
+/Length 378
+>>
+stream
+H‰ì—®Ã EùÿŸîÖ&SAkÕufÜäå¹ögV©;P(
+ı¦è­Y®‘ $ç•vk$ Ëyfâ	À3CI»KëD×H ’óËÓª_Ÿ9aˆ‹áµQsOKÿ'Aè.Êª]ê§§éÁ­X¤Á*®T¥+-åDÅ•ã Z'›—^—˜rØ×¬ŞŒİCÕFì“JÕ°`UÄ†ËZ–äJ0„õ¼¤æct¦K Š±ûËj.k±ºİ¤†KN&ŒÊpVã:èjµ)àÀÖÅZ9J²„Q÷}o‰%°ˆÕÊ`¹ô5*¾±Õ 4>`oå£Ö°\öecwj‹'˜Gõ«$aÈu¥.•®¿Í…ß*+û.½ÉeZ›ìÎæ¹ÇZŸ]ºHÓnÅúûH„Úõ›*r ˜Êz_Ğ[ì7X•n;¡øV³³Õ^`İ¢êw„ië*Şı;2´¹âÿ¹:;ÄÃÚˆu#Ô`]¤XWSVi«–zZ/ e,ôÍ
+endstream
+endobj
+230 0 obj
+<0a37b47f47fd5edaccba8880d284eb99>
+endobj
+231 0 obj
+[ /Indexed /DeviceRGB 255 232 0 R ]
+endobj
+232 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+233 0 obj
+<<
+/Subtype /Image
+/ID 234 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 235 0 R
+/Width 157
+/Height 47
+/Type /XObject
+/Length 316
+>>
+stream
+H‰ì–áÃ „yÿ—î²¥SZ¸­qYÂıXLÑó‹î8J¥RéÏ$âõ¿o€Od;åpv2,„“®Ñ…£Âp[1|!¸èàĞ²g4*DŠ­eQO'Ø™fÊ,É±};n=Äo˜4aî%=ş^® 5ÎepÑ5ˆj«à|ˆMœ¡¥¼Ãq6ºå@ŸÔD}h£ÉÏE$Şr'¡ËÉ™Ts(Î¢	\ƒı’tz{[¤y¸kO#û!ß$œW"¥%Ûîæ›yvuW¡p2¸³¥±éRrªÿfî%?©ï)#õÓß,ËfW1=ÃƒcGg¢.({®¾0e–Ö´sNÜ"¸ñÀø)\db	¶¹O‹-sûù¥1~æ¼À‚?r^`áû¶7m½À¢T*•J¥RR/ ·C9
+endstream
+endobj
+234 0 obj
+(ÔÆÿ\046\260\021õ\243\024Z\254Xï\17474)
+endobj
+235 0 obj
+[ /Indexed /DeviceRGB 255 236 0 R ]
+endobj
+236 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+237 0 obj
+<<
+/Subtype /Image
+/ID 238 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 239 0 R
+/Width 275
+/Height 52
+/Type /XObject
+/Length 586
+>>
+stream
+H‰ì—Û¶ƒ Dóÿ?íY§U„ÉE°+™—*„°Ğã(•J¥R©tŠÈê·"V$“ÉOŸ˜HÆè€|ÒñÉYPüğîµ„níL«M¸#dq@.y,	ç|D’F¶%¯‰²ÇËE:,Ía¼˜Ë3œ¤Â.^<7ßkxè§ÇïS?•Û•ÂJØÚÛyİÜJõ`O•<+±ƒ.;2õ(Ã ğ„wLûÿZ½ ³æÚ¯dIdMŞ2(ZHÁŠÇ*¼)2`	ú3×,éù=˜x@Ÿt¾TMÏ„V(ñ·rÅc—ÂäP7ÅœÌÄ.À †_d$ZõPú¾è¡àYå¶Ù°Hñzšn${û& ³¢¶y/ñY¢xVyï 26c‚dA
+”gÅ’a	UÌƒúèKøawKbÊ
+Û¼–HÇ:ØÄ‰utÃÕ-‚Î¯Lòş¡RLYÑLß75¬ás5¬ÁçQ÷Fu,AÇ¨bÎÊ/Ök2y5-ìhkS´d¸¸LîÚÔÔÕ%æ'l‰JFß BE”óİ,¼BI¹õ(ôP>ŠPN£öÏ\(:l	z³Ú¼Ñş#şè¸#FU>I­s²Ÿ["–åB†GşôÑè]8KU²]eÉZvâ5».ìÈ‹ˆÛ¹¯İşbÓ´¥ÒKÊQŸ9(J%Ÿ|Ò½ M9`rP|•ƒ%Å©09(Nå€ÉAq*LŠ¯^ı¶r+Å©§_ŠR©T*ıëO€ 'ìïë
+endstream
+endobj
+238 0 obj
+(\035ñgÛ\053\020ä\056ğ\002ş1êY\045X)
+endobj
+239 0 obj
+[ /Indexed /DeviceRGB 255 240 0 R ]
+endobj
+240 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+241 0 obj
+<<
+/Subtype /Image
+/ID 242 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 243 0 R
+/Width 201
+/Height 60
+/Type /XObject
+/Length 417
+>>
+stream
+H‰ìWÙrÂ0ÔÿÿtÚaµ¬s“:¡e÷–WZtØlAñ¡éØt¬nE+DyØ]Í)ÔJÏìn4#¤ËĞ²8Œóè	9'÷7]è#O¤çÕ¢cœ„Ï•s\D…a€¸'%†tŒÃúÅY‡&²CßÄíK‹Ç¤Ò,?Ç^:B ÎÊ "Ö‰Š™©ØŸ)8`-@!I‘Š¶i&d\Ê˜ïR‰LïŒÌaPJ\aìğ¦åĞ´vèú›«
++%®ÎªZÜövµ»¾CÇ]â¨sT‡
+õ59ûñ’¯~Wug”ÁäÄùÙYˆê­²GÄvV\U,1qYH°ˆÂüíuf÷›1ôÄ±ÅûBD»Ì¯õªÛâv!j†&÷ˆÉ€½IieŸw™g¬÷æ ñÿ¦1ÀKû¶‹lá^ˆûL‡§Lf‹&¤ÏŒ›hµƒ‡!æÅ ˜y-æ™_ÌmæÅ˜g<}ÛÌÄÿÆ²t³>øƒğnâØãŸ#¾Øònş(ä¨»USëê—î*w|AA¼!¾ L0+N
+endstream
+endobj
+242 0 obj
+(\006GS³û\045\242\054\007µóæŞsöĞ)
+endobj
+243 0 obj
+[ /Indexed /DeviceRGB 255 244 0 R ]
+endobj
+244 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+245 0 obj
+<<
+/Subtype /Image
+/ID 246 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 247 0 R
+/Width 173
+/Height 45
+/Type /XObject
+/Length 307
+>>
+stream
+H‰ì—ëÃ …yÿ—vY6—ºvM9?;n_©Ò4¥P(ºBDW‹èF°·êlÀşN„µ“ìHMYŸ‹üç‘Œœ7©•so£kBlN½Gù7ûq€F©8¶&XŠ›]ú)¨Zªì5¬]N=êUØ»Ì&º3«€,Ş^` ;³–ÍåÑva	l>r·æ8¬dDçvä PçYJ«˜S­;ê¤~6ğ¬}ãl[Ê	S!b
+Nf,>!d¬'m\Û“°mJh´`'{‘yÄ}	÷¼¾¸Eß@0šæ*8ªK!^i›vö'©$¨Æ>+ºhÂóv@K)àY	ÛPy>æY½¨Î{u©ÒîçU
+X»Ğñipí†¿[}ì†B¡P(ô½ sºá¨
+endstream
+endobj
+246 0 obj
+(\1737\200²c\137Æ\213ò\011\134ôô\022\261K)
+endobj
+247 0 obj
+[ /Indexed /DeviceRGB 255 248 0 R ]
+endobj
+248 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+249 0 obj
+[ 250 0 R ]
+endobj
+250 0 obj
+<<
+/Rect [ 453.66 551.424 492.538 566.424 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/D [ 3 0 R /XYZ 0 792 null ]
+/S /GoTo
+>>
+/PA <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057art\057sr\057sr\056htm\043Sharpe92)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+251 0 obj
+<<
+/Length 4173
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+q
+122 0 0 56 10 710 cm
+/Im0 Do
+Q
+BT
+/T1_0 1 Tf
+14 0 0 14 132 710 Tm
+( )Tj
+-8.714 -2.457 Td
+(Hence the risk levels of the strategies should be proportional to their \Sharpe Ratios. Strategies with zero )Tj
+0 -1.2 TD
+(predicted Sharpe Ratios should be ignored. Those with positive ratios sh\ould be "held long", and those )Tj
+T*
+(with negative ratios "held short". If strategy X has a positive Sharpe R\atio that is twice as large as that of )Tj
+T*
+(strategy Y, twice as much risk should be taken with X as with Y. The ove\rall scale of all the positions )Tj
+T*
+(should, in turn, be proportional to the investor's risk tolerance. )Tj
+0 -2.557 TD
+(An interesting application occurs when long and short positions can be t\aken \(e.g. via financial futures\) )Tj
+0 -1.2 TD
+(in the asset classes that underlie a style analysis model of the type de\scribed in )Tj
+ET
+0 0 1 RG
+0.706 w 10 M 0 j 0 J []0 d 
+453.66 553.683 m
+492.538 553.683 l
+S
+0 0 1 rg
+BT
+/T1_0 1 Tf
+14 0 0 14 453.66 555.8 Tm
+(Sharpe)Tj
+0 0 0 rg
+( [1992]. In )Tj
+-31.69 -1.343 Td
+(principle, funds should be selected based only on their selection return\s, with the respective amounts of )Tj
+0 -1.2 TD
+(selection risk set in proportion to the funds' selection return Sharpe R\atios. The net exposures to asset )Tj
+T*
+(classes required to implement this mixture of zero investment strategies\ can then be compared with the )Tj
+T*
+(investor's desired passive asset mix to determine needed net positions. \)Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 448.6702 Tm
+(Summary)Tj
+/T1_0 1 Tf
+14 0 0 14 10 412.4154 Tm
+(The Sharpe Ratio is designed to measure the expected return per unit of \risk for a )Tj
+/T1_2 1 Tf
+(zero investment )Tj
+0 -1.2 TD
+(strategy)Tj
+/T1_0 1 Tf
+(. The difference between the returns on two investment assets represents\ the results of such a )Tj
+T*
+(strategy. The Sharpe Ratio does not cover cases in which only one invest\ment return is involved. )Tj
+0 -2.557 TD
+(Clearly, any measure that attempts to summarize even an unbiased predict\ion of performance with a )Tj
+0 -1.2 TD
+(single number requires a substantial set of assumptions for justificatio\n. In practice, such assumptions )Tj
+T*
+(are, at best, likely to hold only approximately. Certainly, the use of u\nadjusted historic \(ex post\) Sharpe )Tj
+T*
+(Ratios as surrogates for unbiased predictions of ex ante ratios is subje\ct to serious question. Despite such )Tj
+0 -1.2 TD
+(caveats, there is much to recommend a measure that at least takes into a\ccount both risk and expected )Tj
+T*
+(return over any alternative that focuses only on the latter. )Tj
+0 -2.557 TD
+(For a number of investment decisions, ex ante Sharpe Ratios can provide \important inputs. When )Tj
+0 -1.2 TD
+(choosing one from among a set of funds to provide representation in a pa\rticular market sector, it makes )Tj
+T*
+(sense to favor the one with the greatest predicted Sharpe Ratio, as long\ as the correlations of the funds )Tj
+T*
+(with other relevant asset classes are reasonably similar. When allocatin\g funds among several such )Tj
+T*
+(funds, it makes sense to allocate funds such that the selection \(residu\al\) risk levels are proportional to )Tj
+T*
+(the predicted Sharpe Ratios for the selection \(residual\) returns. If s\ome of the implied net positions are )Tj
+T*
+(infeasible or involve excessive transactions costs, of course, the decis\ion rules must be modified. )Tj
+T*
+(Nonetheless, Sharpe Ratios may still provide useful guidance. )Tj
+0 -2.557 TD
+(Whatever the application, it is essential to remember that the Sharpe Ra\tio does not take correlations into )Tj
+0 -1.2 TD
+(account. When a choice may affect important correlations with other asse\ts in an investor's portfolio, )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(16 of 19\)6/23/2005 2:\30:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+252 0 obj
+<<
+/Subtype /Image
+/ID 253 0 R
+/Filter /FlateDecode
+/BitsPerComponent 8
+/ColorSpace 254 0 R
+/Width 122
+/Height 56
+/Type /XObject
+/Length 266
+>>
+stream
+H‰ì—áƒ …yÿ—vge)Ê…X–ÛâşØé„ø‰‚¬”B¡P(ô¢·¦pÓl†?ü;d0\~­¦®3Å(;•9ó#@«äŞº¼hûİÜŠ»4Ş{’´íUÔØÎ“µˆÑ®$wRb.Íä»!ÑĞ6­Ö| ÎÊÈÌ?Ëf1S{Öı„(O5ÙåyˆŒ£#B '˜—ÜLcí¶’Ú'É–L2‡â£
+~d	ìkÊİ¹ÇYå»‚³¤ğAhõpmÓóWâbò®Jl&€Më1WÖ­V}j?})¹í²÷‘Ód|—ò° ¥qxFiÊgÕJ~&xİüOöwàP(z„^ ±pï
+endstream
+endobj
+253 0 obj
+(\006\204A\234\277ôı\221ãO\221ñ\025\212\033\232)
+endobj
+254 0 obj
+[ /Indexed /DeviceRGB 255 255 0 R ]
+endobj
+255 0 obj
+<<
+/Length 768
+>>
+stream
+   ¿   ¿ ¿¿   ¿¿ ¿ ¿¿ÀÀÀÀÜÀ¤Èğ€   € €€   €€ € €€€€€€€ÿ€ `ÿÿÀ àà` €ÿ€€ €ÀÀÀÿ Ïÿiÿÿàÿàİœ³³î*où?¸ÍH„6•ŒA^B bzbO¬/¾(fv E E>j(…9jJ2…""")))000___UUUMMMBBB999    ·™„™´½½```    (  	+  9    › % I  ; / ]  E : IS ÿ+ ÿ!!lY Q Gj2g a  1ÿa ÿS {Cg..â&YQFh.IRj¸# Sÿ£ ÿjJu3lJAš7e¤,ƒ±N,ÿ Q¶d’oVYC­6r°3 ¡ w_‰Gq°C·-} †•zn#&Ÿ s©                         Ê ¬[ Â”Rp$ªL
+”‰6n{Duÿ ¨ qÿß ÿV‘J4HøÌ2‚äAphÊ6¼B šÿ–"·…}3%·Œ6Zí\ÿ ÿH "›¢BÏMÂXR Ó•¥$àsVµ©© Ğo<gŸX‰Ïÿ¬ §.şâYLÜgÿÿ:}ÿ±ĞÇÿ ÿâ ßš=VŸÆCº¯q‹8¢ÉÑSÎÿšeFÊÛÿMÿÈéjLŞàÿ˜ÿßÀ‚éì¥õöÍÿĞÿ±¬Zc‘®"LeN?PppĞÿÿÿçÿiiiwww†††–––¤¤¤²²²ËËË×××İİİãããêêêñññøøø²Áf€¿xÆğğ²¤ÿÿ³ÿÑ£ÃÜ7 Tv®pxÁƒd¿¤ƒÓÑ?2ÿ} Dx#$_`,¾  ÿ 19 Ù…>w…°ØV!  0ˆÈ³ y ÀÀÀêpQñiÿÿ€‘tÍÿ|ÿ¢ÿÿÿûğ  ¤€€€ÿ   ÿ ÿÿ   ÿÿ ÿ ÿÿÿÿÿ
+endstream
+endobj
+256 0 obj
+<<
+/Length 4489
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 753.9756 Tm
+(such information should be used to supplement comparisons based on Sharp\e Ratios. )Tj
+0 -2.557 TD
+(All the same, the ratio of expected added return per unit of added risk \provides a convenient summary of )Tj
+0 -1.2 TD
+(two important aspects of any strategy involving the difference between t\he return of a fund and that of a )Tj
+0 -1.2 TD
+(relevant benchmark. The Sharpe Ratio is designed to provide such a measu\re. Properly used, it can )Tj
+T*
+(improve the process of managing investments. )Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 629.8457 Tm
+(Endnotes)Tj
+/T1_0 1 Tf
+14 0 0 14 10 593.5909 Tm
+(1. We use the formula for the standard deviation of a population, taking\ the observations as a sample. )Tj
+0 -1.2 TD
+(For applications in which the value of T is the same for all the funds b\eing measured, the standard )Tj
+T*
+(deviation of the historic data \(in which the denominator is T rather th\an T-1\) can generally be used )Tj
+0 -1.2 TD
+(instead, since the relative magnitudes of the resulting measures would b\e the same. )Tj
+0 -2.661 TD
+(2. Treynor and Black showed that if resources are allocated optimally, t\he SR)Tj
+11.2 0 0 11.2 444.7 509.5158 Tm
+(2)Tj
+14 0 0 14 450.3 505.9318 Tm
+( of a portfolio will equal )Tj
+-31.45 -1.304 Td
+(the sum of the SR)Tj
+11.2 0 0 11.2 110.338 491.2567 Tm
+(2)Tj
+14 0 0 14 115.938 487.6727 Tm
+( values for its components. This follows from the fact that the optimal \holding of a )Tj
+-7.567 -1.2 Td
+(component will be proportional to the ratio of its mean differential ret\urn to the square of the standard )Tj
+0 -1.2 TD
+(deviation of its differential return. Thus, for example, components with\ negative means should be held )Tj
+0 -1.2 TD
+(in negative amounts. In this context, the product of the mean return and\ the optimal holding will always )Tj
+0 -1.2 TD
+(be positive. For completeness, it should be noted that Treynor and Black\ used the term )Tj
+/T1_2 1 Tf
+(appraisal ratio)Tj
+/T1_0 1 Tf
+( to )Tj
+0 -1.304 TD
+(refer to what we term here the SR)Tj
+11.2 0 0 11.2 199.336 405.7976 Tm
+(2)Tj
+14 0 0 14 204.936 402.2136 Tm
+( of a component and the term )Tj
+/T1_2 1 Tf
+(Sharpe Ratio)Tj
+/T1_0 1 Tf
+( to refer to the SR)Tj
+11.2 0 0 11.2 545.948 405.7976 Tm
+(2)Tj
+14 0 0 14 551.548 402.2136 Tm
+( of the )Tj
+-38.682 -1.2 Td
+(portfolio, although other authors have used the latter term for both the\ portfolio and its components. )Tj
+0 -2.557 TD
+(3. This type of application is described in BARRA [1992, p. 21]. )Tj
+0 -2.557 TD
+(4. In this context, maximization of the Sharpe Ratio is the normative eq\uivalent to the separation )Tj
+0 -1.2 TD
+(theorem first put forth in Tobin [1958] in a positive context. )Tj
+0 -2.557 TD
+(5. To see this, note that by borrowing money to purchase the underlying \asset, one can obtain precisely )Tj
+0 -1.2 TD
+(the same asset at the delivery date. The ending value of such a strategy\ will be perfectly correlated with )Tj
+T*
+(the value of the forward contract and neither will require any outlay. I\f the payoffs at the end of the )Tj
+T*
+(period differ, one could take a long position in one combination \(e.g. \the forward contract or the asset/)Tj
+T*
+(borrowing combination\) and a short position in the other and obtain a g\uaranteed payment at the end of )Tj
+0 -1.2 TD
+(the period with no outlay at any other time. This is unlikely to be the \case in a market populated by )Tj
+0 -1.2 TD
+(astute investors. In practice, transactions costs will limit the precisi\on of the relationship. )Tj
+0 -2.557 TD
+(6. Futures contracts are often not protected against changes in value du\e to \(for example\) dividend )Tj
+0 -1.2 TD
+(payments. They also generally require daily marking to market. For these\ reasons they differ from )Tj
+T*
+(forward contracts with dividend protection, for which the arbitrage rela\tionship will hold within the )Tj
+T*
+(bounds of transactions costs. Futures contracts generally require that m\argin be posted. However, this is )Tj
+T*
+(not an investment in the underlying asset. )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(17 of 19\)6/23/2005 2:\30:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+257 0 obj
+<<
+/Length 3172
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 751.6136 Tm
+(7. Despite this drawback, once a notional value has been selected, the a\ctual rate of return can be used )Tj
+0 -1.2 TD
+(for comparison purposes. )Tj
+0 -2.557 TD
+(8. Indeed, a Sharpe Ratio can be computed without regard to notional val\ue by simply using the mean )Tj
+0 -1.2 TD
+(and standard deviation of the distribution of the final payoff. )Tj
+0 -2.557 TD
+(9. To see the advantages of concentration on the risk position of a stra\tegy, consider two funds. One \(X\) )Tj
+0 -1.2 TD
+(invests directly, the other \(Y\) borrows money at the riskless rate and\ invests in X, with a leverage ratio )Tj
+T*
+(of 2 to 1. Let k)Tj
+11.2 0 0 11.2 93.216 609.2296 Tm
+(x)Tj
+14 0 0 14 98.816 612.8136 Tm
+( be the optimal position in fund X. Clearly the optimal position in fund\ Y will be half as )Tj
+-6.344 -1.664 Td
+(large. However, the standard deviation of return on fund Y will be twice\ that of fund X. Thus the )Tj
+0 -1.2 TD
+(optimal risk position in Y will be the same as that in X. )Tj
+0 -2.557 TD
+(10. In fact, the basic relationship on which this section builds was fir\st obtained by Treynor and Black )Tj
+0 -1.2 TD
+([1973]. )Tj
+/T1_1 1 Tf
+16.1538 0 0 16.1538 10 482.1909 Tm
+(References)Tj
+/T1_0 1 Tf
+14 0 0 14 10 445.9361 Tm
+(BARRA )Tj
+/T1_2 1 Tf
+(Newsletter)Tj
+/T1_0 1 Tf
+(, September/October 1992, May/June 1993, BARRA, Berkeley, Ca. )Tj
+0 -2.557 TD
+(Bodie, Zvi, Alex Kane and Alan J. Marcus. )Tj
+/T1_2 1 Tf
+(Investments)Tj
+/T1_0 1 Tf
+(, 2d edition. Homewood, IL: Richard D. Irwin, )Tj
+0 -1.2 TD
+(1993. )Tj
+0 -2.557 TD
+(Capaul, Carlo, Ian Rowley, and William F. Sharpe. "International Value a\nd Growth Stock Returns," )Tj
+/T1_2 1 Tf
+0 -1.2 TD
+(Financial Analysts Journal)Tj
+/T1_0 1 Tf
+(, January/February 1993, pp. 27-36. )Tj
+0 -2.557 TD
+(Elton, Edwin J., and Martin J. Gruber. )Tj
+/T1_2 1 Tf
+(Modern Portfolio Theory and Investment Analysis)Tj
+/T1_0 1 Tf
+(, 4th edition. )Tj
+0 -1.2 TD
+(New York: John Wiley & Sons, 1991. )Tj
+0 -2.557 TD
+(Grinold, Richard C. "The Fundamental Law of Active Management," )Tj
+/T1_2 1 Tf
+(Journal of Portfolio Management)Tj
+/T1_0 1 Tf
+(, )Tj
+0 -1.2 TD
+(Spring 1989, pp. 30-37. )Tj
+0 -2.557 TD
+(Haugen, Robert A. )Tj
+/T1_2 1 Tf
+(Modern Investment Theory)Tj
+/T1_0 1 Tf
+(, 3d edition. Englewood Cliffs, NJ: Prentice-Hall, 1993. )Tj
+T*
+("Morningstar Mutual Funds User's Guide." Chicago: Morningstar Inc., 1993\. )Tj
+T*
+(Radcliff, Robert C. )Tj
+/T1_2 1 Tf
+(Investment Concepts, Analysis, Strategy)Tj
+/T1_0 1 Tf
+(, 3d edition. New York: HarperCollins, )Tj
+0 -1.2 TD
+(1990. )Tj
+0 -2.557 TD
+(Reilly, Frank K. )Tj
+/T1_2 1 Tf
+(Investment Analysis and Portfolio Management)Tj
+/T1_0 1 Tf
+(, 3d edition. Chicago: The Dryden )Tj
+0 -1.2 TD
+(Press, 1989. )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(18 of 19\)6/23/2005 2:\30:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+258 0 obj
+[ 259 0 R ]
+endobj
+259 0 obj
+<<
+/Rect [ 211.5 392.161 400.5 431.161 ]
+/Subtype /Link
+/BS <<
+/S /S
+/W 0
+/Type /Border
+>>
+/A <<
+/URI (http\072\057\057www\056stanford\056edu\057\176wfsharpe\057home\056htm)
+/S /URI
+>>
+/Border [ 0 0 0 ]
+>>
+endobj
+260 0 obj
+<<
+/Length 1839
+>>
+stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/T1_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 9 0 0 9 18 780.17 Tm
+(The Sharpe Ratio)Tj
+ET
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+BT
+/T1_0 1 Tf
+14 0 0 14 10 752.9361 Tm
+(Rudd, Andrew, and Henry K. Clasing. )Tj
+/T1_1 1 Tf
+(Modern Portfolio Theory, The Principles of Investment )Tj
+0 -1.2 TD
+(Management)Tj
+/T1_0 1 Tf
+(. Homewood, IL: Dow-Jones Irwin, 1982. )Tj
+0 -2.557 TD
+(Sharpe, William F. "Mutual Fund Performance." )Tj
+/T1_1 1 Tf
+(Journal of Business)Tj
+/T1_0 1 Tf
+(, January 1966, pp. 119-138. )Tj
+0 -2.557 TD
+(-----. "Adjusting for Risk in Portfolio Performance Measurement." )Tj
+/T1_1 1 Tf
+(Journal of Portfolio Management)Tj
+/T1_0 1 Tf
+(, )Tj
+0 -1.2 TD
+(Winter 1975, pp. 29-34. )Tj
+0 -2.557 TD
+(-----. "Asset allocation: Management Style and Performance Measurement,"\ )Tj
+/T1_1 1 Tf
+(Journal of Portfolio )Tj
+0 -1.2 TD
+(Management)Tj
+/T1_0 1 Tf
+(, Winter 1992, pp. 7-19. )Tj
+0 -2.557 TD
+(Tobin, James. "Liquidity Preference as Behavior Toward Risk." )Tj
+/T1_1 1 Tf
+(Review of Economic Studies)Tj
+/T1_0 1 Tf
+(, February )Tj
+0 -1.2 TD
+(1958, pp. 65-86. )Tj
+0 -2.557 TD
+(Treynor, Jack L., and Fischer Black. "How to Use Security Analysis to Im\prove Portfolio Selection." )Tj
+/T1_1 1 Tf
+0 -1.2 TD
+(Journal of Business)Tj
+/T1_0 1 Tf
+(, January 1973, pp. 66-85. )Tj
+ET
+0.5 0.5 0.5 rg
+10 457.161 m
+10 459.161 l
+602 459.161 l
+601 458.161 l
+11 458.161 l
+11 458.161 l
+h
+f
+0.875 0.875 0.875 rg
+602 459.161 m
+602 457.161 l
+10 457.161 l
+11 458.161 l
+601 458.161 l
+601 458.161 l
+h
+f
+q
+189 0 0 39 211.5 392.160553 cm
+/Im0 Do
+Q
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5 582 14 ]>>BDC 
+Q
+BT
+/T1_0 1 Tf
+9 0 0 9 18 7.17 Tm
+(http://www.stanford.edu/~wfsharpe/art/sr/sr.htm \(19 of 19\)6/23/2005 2:\30:07 PM)Tj
+ET
+EMC 
+
+endstream
+endobj
+261 0 obj
+<<
+/Subtype /Image
+/ID 262 0 R
+/Filter /DCTDecode
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Width 189
+/Height 39
+/Type /XObject
+/Length 3188
+>>
+stream
+ÿØÿî Adobe dÀ   ÿÛ „ #%'%#//33//@@@@@@@@@@@@@@@  --@5,5@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ÿÀ  ' ½ ÿİ  ÿÄ ¡                                !1‘AQ¡ÑÒSTa"2qğ±ÁrCáBb‚²#cs³$4&6        !1QAqRa¡"2‘Bğ±áÁ‚#34ÿÚ   ? ì·ÀÆ)e”êIwĞ?Æ„,iq¤¹óÏ˜ROôÚ·Ëş²ï~T¦L¯·dÉg*<Pp–ÿ 4x)7ñš½[ÜÑà£qOgÍ½[ÜÑà£qŸ4hFõosG‚Äv|Ñ¡Õ½Í
+7ÙóF„oV÷4x(ÜGgÍ½[ÜÑà£qŸ4hFõosG‚Äv|Ñ¡Õ½Í
+7ÙóF„oV÷4x(ÜGgÍ½[ÜÑà£qŸ4hFõosG‚Äv|Ñ¡Õ½Í
+7ÙóF„oV÷4x(ÜGgÍ½[ÜÑà£qŸ4hFõosG‚Äv|Ñ¡Õ½Í
+7ÙóF„oV÷4x(ÜGgÍ½[ÜÑà£qŸ5²ÎS–S×ø”x*7†<RŞ6Wu{î£­•ğ·Ã¿S à’ïÁ”EQÄ.Ãû³jıõÜÇCéÒş¦¯•n¿á
+µa_ÿĞÙ/<™“×Š’t›ÿ GêçqK"Êû6ê+=ÉSÛQ:Í0§˜±#që;»®©İ,~©xŸoÍÜ¸iGHÜà”eRğéÀÔF/U·nÓzøÕ-6Ò6ØR^BİzT¬¡'2˜E’¤%#üÅF d9§‘&sˆ,#2®ÛôÜNõvŠC-,²‡EÖÕ”llB‡ML$—\mc™ÙT²íØ/¥)8ë¡n 3(l	ãP}¡=°÷çÓõ¸!F}›„äŒâT]½±ùq8ÒË<–˜B©È’¢K{Œ2‘)§+Å9ÒS{u^ ¸ÍY	ûH*mÅİİ$7å»+éWpàz*X¥3¶3û¨¥ÉqÕ%,¸c¢ù	9E¸ãğ¨cšc+`ÒáôKıË½u€º	Ú`C‚¹Vû²™©IuHéÃ¸°Ï€¹rS%²X’&¾µGIi’~FÊ³¬İ5Q+t-°õbTZyç]CaV+PH?‰µ@*e­ıÆNË¶Èsm\%¸¦’•¨BÊÊB‚²`-]]#Y—>Ì.Üˆ¸&ğoê–ÚßöÚœi­IjšAJs8S¦QlmJ1ÕY2#}‰ôĞş¬·Äèîè¾ÚÚtÚÈP!Fü,!pµÆ‰‰p¬~6ë ô†i£€ZÒR.’KÛ‘hJñ–w7òh²ëËä)JˆV_ªÇáÓP(”­Ç2Ó;›Å!¦^¦`Œ¨Q
+ËõXÛ£¦€
+%+c2o*[_J›q<P°RGäh.ÄFAãˆVHcsŒ„¹%—Bş•-% ó ‚BVäZ$Ÿ!ÕN51»&	ÉZXsnâÃ¶ıºm.'Ä/²µ¿¥yÊí<ÿÑ½…Ú4±ÿ ÿ °ŠªâßğÂSa|7îB±CÙšXëI¶ÕD©u~T^ÉğÅlAkí\‹±¬Ø¿Z\¤¸³”‘ü­U‘Ñæ±]•BW´”<‡ò³äÆé°íümàêq×Ö?u!ÀÄ-õ[½sZ¾À)1ÿ “î_åş¢ªFrQ/míı’“?ùm»şsß¼ÒŸ`W[ÿ ¢|‚{wb{şêy;{š/’Tñ9ChÈ”UÑÆš`™à¨øò„~8¬8|µ.«İ‡ş²Îibr“3(æ6µ’›¯'íÍñMñÿ Ş}4úrú¦dîsÜöXl¸Zd¢)p'Lä …õ‹T™ˆäª…˜›wfCŸWÑ•‘÷	R}É6‹""Pûa„à‹Ç/Yãz‘"dBYÚŒlBcÜñ/Åqµ™v—U9ı¡­»j„UÈYŒœ…(°ê«äC\›Q¸gsn@z´\ºÊ
+ÔP2 “”l:*…Õb¢	ã
+WQLOs4!MHkuB„¤ÿ S(½”?o…ªğDğ9®Tá/Œk†6øPfIÛı«!qÕ‘ã0·œqMÛEÊ~8Z¢$ˆ}Sİ·Ÿ"5eKù•Ås&1±¸Ù.Mq*YÅEHX	$«øÑ'4ê¦ÈŒà}¿Ât5!½¯wj\ñ9àÚK)a¥…•aËª™°“—TTËF0¤?İ$½Æ\/lÁLWJyÇ³8œd«€=½-DD2¼YŒïÎ ìÜfCöÔÂÒŞqìî'Ø*ö
+â/|h¨ˆ†@³ßAØEi²Ú'î©6[Î2âœ$b¢ÈÌ‚3zq‰‰+,‰·ÑN<óIÊ—ôıÅ§÷A9É[M,dq*¿Ëšöê¥$1ÅÕĞ·*àcn–Ìáˆ\„“aI«äœeÿ î/ûp­\ÿ ÉúÑÿÒZcëÛ·p¸ù³"ı#¯óMSwUÑøBÍDÍmÉO–—â“š³İvæÔ˜+NW¹PşüÎê–Ôg(’3eÌ/ñ¹«U,p²#dÚ|ÒÒ7´HßSº©"^mÀİñÊÙM‡$Ôò©YˆÚÚ~}ÔÛßXC»«…µ¸‡ÇÉEXó¡óñJ`âØcy*_İšwh‹·„¸ëZÊïÎz*L ’¸ù€´º"/y‘1ÖbKgíŞjã>R	ªz½N³ì5¨ÀKÕàªåo[+»S›cŞiXv2Ê*rÅ%Nõ`x
+	É¡‹‚ä¤yx%ßßwq06Ba¥„©7V‰¹·ãJN «#„àşê¼Ôãoì3½HÜ‹j(RÈ\jp©ÔégmíFÛäŞK#U5]+fèOî[³S#Âi()1(“õÒ)¥‹,ö@™qusá3[/°yô¤0îîˆÍs]èšä‰”H“ŸŠU·ÛKˆRÆd‚
+“ÖÄRÒ­7C-æ·¿n@uS6è¯‰™TKªN“eC-ÇÌTjĞb1`”nÌQrB-™YÃwkôUí¥$¸¹?q©qke	·e'âËCİÇüY^×¸[díjCd«nÎr,°µ\Û«
+`rğUÊØ;}ìàöò¦ZŠúXœ“®¼ÉÔ
+&éI%! “Lã3T›w$È<rÑdHİwk‰$…ÆSŠRïÔ7ªÎ@-parS|ÛÉl"NÖnméÜšqÆœqü‹d€â
+UÑ›êÆ‡YL§½3l–y$e{û”iP‘¢Ä¥¸í(ßäßÌ8Ò™qÁ[Q¢Q™s,IFá¹{qöİyˆ¯·1ëœ¥IÑBÕ‰)¶&‚"x(·+±a)
+GİsR¤_O,ß+ä:·¼v—7b’L†ã¡]©-|²§^Ë•V.¿ÿÓ×÷†Ñ³îy³˜º6.ÊÜq(*N6J’H6¿ÑP|SAßÓšùÜÆgCp´ö›ÖÀ8Ãˆu'ãvÊ»mUSt7ï~Q?b–Ö{ËWouM#T›×:Oëè¼Õ{ËWouQ½s¤£Uï-]½ÔR5FõÎ’W¼µv÷QHÕ×:J5^òÕÛİE#To\é(Õ{ËWouQ½s¤£Uï-]½ÔR5FõÎ’W¼µv÷QHÕ×:J5^òÕÛİE#To\é(Õ{ËWouQ½s¤£Uï-]½ÔR5FõÎ’W¼µv÷QHÕ×:J5^òÕÛİE#To\é(Õ{ËWouQ½s¤£Uï-]½ÔR5FõÎ’W¼µv÷QHÕ×:J5^òÕÛİE#To\é)—dn†u·~Í%o™$7˜ŸŸ"²ãšF©Ù?´º[Uï-]½ÕSï\é+Å:ñâ…}Õ"!,®Ï¤­=Ÿ`n{©\ıÂ,¼T\}­U¤£=Áşk~táe‘'5ôÏ´ößöÿ Ùê1ú6\šš‰Ó½ş­[Û6n›ñ©H¿ÿÙ
+endstream
+endobj
+262 0 obj
+(\002\176áÚ\257\236Ç\245\260\003\015XJFV\175)
+endobj
+xref
+0 263
+0000000000 65535 f 
+0000000015 00000 n 
+0000000195 00000 n 
+0000001827 00000 n 
+0000002091 00000 n 
+0000002398 00000 n 
+0000002755 00000 n 
+0000003099 00000 n 
+0000003310 00000 n 
+0000003537 00000 n 
+0000003751 00000 n 
+0000004106 00000 n 
+0000004487 00000 n 
+0000004839 00000 n 
+0000005195 00000 n 
+0000005470 00000 n 
+0000005745 00000 n 
+0000006088 00000 n 
+0000006480 00000 n 
+0000006784 00000 n 
+0000006997 00000 n 
+0000007210 00000 n 
+0000007462 00000 n 
+0000007526 00000 n 
+0000007562 00000 n 
+0000008066 00000 n 
+0000008130 00000 n 
+0000008194 00000 n 
+0000008258 00000 n 
+0000008322 00000 n 
+0000008386 00000 n 
+0000008450 00000 n 
+0000008514 00000 n 
+0000008578 00000 n 
+0000008642 00000 n 
+0000008695 00000 n 
+0000008774 00000 n 
+0000008832 00000 n 
+0000008913 00000 n 
+0000009024 00000 n 
+0000009273 00000 n 
+0000009522 00000 n 
+0000009765 00000 n 
+0000010013 00000 n 
+0000010257 00000 n 
+0000010502 00000 n 
+0000010748 00000 n 
+0000010995 00000 n 
+0000011246 00000 n 
+0000011492 00000 n 
+0000011739 00000 n 
+0000011988 00000 n 
+0000012237 00000 n 
+0000012290 00000 n 
+0000017394 00000 n 
+0000017494 00000 n 
+0000017597 00000 n 
+0000017707 00000 n 
+0000017812 00000 n 
+0000017911 00000 n 
+0000018012 00000 n 
+0000021212 00000 n 
+0000021646 00000 n 
+0000021699 00000 n 
+0000021750 00000 n 
+0000022570 00000 n 
+0000022992 00000 n 
+0000023043 00000 n 
+0000023094 00000 n 
+0000023914 00000 n 
+0000023941 00000 n 
+0000024184 00000 n 
+0000026916 00000 n 
+0000027361 00000 n 
+0000027417 00000 n 
+0000027468 00000 n 
+0000028288 00000 n 
+0000028833 00000 n 
+0000028884 00000 n 
+0000028935 00000 n 
+0000029755 00000 n 
+0000030571 00000 n 
+0000030642 00000 n 
+0000030693 00000 n 
+0000031513 00000 n 
+0000031961 00000 n 
+0000032017 00000 n 
+0000032068 00000 n 
+0000032888 00000 n 
+0000035689 00000 n 
+0000036084 00000 n 
+0000036140 00000 n 
+0000036191 00000 n 
+0000037011 00000 n 
+0000037504 00000 n 
+0000037569 00000 n 
+0000037620 00000 n 
+0000038440 00000 n 
+0000038946 00000 n 
+0000038999 00000 n 
+0000039051 00000 n 
+0000039872 00000 n 
+0000040319 00000 n 
+0000040371 00000 n 
+0000040424 00000 n 
+0000041245 00000 n 
+0000045241 00000 n 
+0000045334 00000 n 
+0000045576 00000 n 
+0000045820 00000 n 
+0000046056 00000 n 
+0000046296 00000 n 
+0000046538 00000 n 
+0000046781 00000 n 
+0000047022 00000 n 
+0000047271 00000 n 
+0000047521 00000 n 
+0000052756 00000 n 
+0000052833 00000 n 
+0000053073 00000 n 
+0000053315 00000 n 
+0000053560 00000 n 
+0000053803 00000 n 
+0000054048 00000 n 
+0000054293 00000 n 
+0000054536 00000 n 
+0000060331 00000 n 
+0000060368 00000 n 
+0000060612 00000 n 
+0000060857 00000 n 
+0000064356 00000 n 
+0000064753 00000 n 
+0000064816 00000 n 
+0000064869 00000 n 
+0000065690 00000 n 
+0000066226 00000 n 
+0000066289 00000 n 
+0000066342 00000 n 
+0000067163 00000 n 
+0000067662 00000 n 
+0000067725 00000 n 
+0000067778 00000 n 
+0000068599 00000 n 
+0000068628 00000 n 
+0000068873 00000 n 
+0000072108 00000 n 
+0000072590 00000 n 
+0000072650 00000 n 
+0000072703 00000 n 
+0000073524 00000 n 
+0000074318 00000 n 
+0000074375 00000 n 
+0000074428 00000 n 
+0000075249 00000 n 
+0000076045 00000 n 
+0000076111 00000 n 
+0000076164 00000 n 
+0000076985 00000 n 
+0000077380 00000 n 
+0000077434 00000 n 
+0000077487 00000 n 
+0000078308 00000 n 
+0000081183 00000 n 
+0000081836 00000 n 
+0000081890 00000 n 
+0000081943 00000 n 
+0000082764 00000 n 
+0000083171 00000 n 
+0000083222 00000 n 
+0000083275 00000 n 
+0000084096 00000 n 
+0000084633 00000 n 
+0000084696 00000 n 
+0000084749 00000 n 
+0000085570 00000 n 
+0000086037 00000 n 
+0000086089 00000 n 
+0000086142 00000 n 
+0000086963 00000 n 
+0000086992 00000 n 
+0000087286 00000 n 
+0000090514 00000 n 
+0000090970 00000 n 
+0000091030 00000 n 
+0000091083 00000 n 
+0000091904 00000 n 
+0000092401 00000 n 
+0000092452 00000 n 
+0000092505 00000 n 
+0000093326 00000 n 
+0000093720 00000 n 
+0000093772 00000 n 
+0000093825 00000 n 
+0000094646 00000 n 
+0000095138 00000 n 
+0000095198 00000 n 
+0000095251 00000 n 
+0000096072 00000 n 
+0000098507 00000 n 
+0000101898 00000 n 
+0000101955 00000 n 
+0000102008 00000 n 
+0000102829 00000 n 
+0000106817 00000 n 
+0000107315 00000 n 
+0000107381 00000 n 
+0000107434 00000 n 
+0000108255 00000 n 
+0000108300 00000 n 
+0000108587 00000 n 
+0000108879 00000 n 
+0000109399 00000 n 
+0000112623 00000 n 
+0000113202 00000 n 
+0000113256 00000 n 
+0000113309 00000 n 
+0000114130 00000 n 
+0000114796 00000 n 
+0000114850 00000 n 
+0000114903 00000 n 
+0000115724 00000 n 
+0000116283 00000 n 
+0000116343 00000 n 
+0000116396 00000 n 
+0000117217 00000 n 
+0000119173 00000 n 
+0000119727 00000 n 
+0000119790 00000 n 
+0000119843 00000 n 
+0000120664 00000 n 
+0000121221 00000 n 
+0000121273 00000 n 
+0000121326 00000 n 
+0000122147 00000 n 
+0000122642 00000 n 
+0000122699 00000 n 
+0000122752 00000 n 
+0000123573 00000 n 
+0000124338 00000 n 
+0000124392 00000 n 
+0000124445 00000 n 
+0000125266 00000 n 
+0000125862 00000 n 
+0000125913 00000 n 
+0000125966 00000 n 
+0000126787 00000 n 
+0000127273 00000 n 
+0000127333 00000 n 
+0000127386 00000 n 
+0000128207 00000 n 
+0000128236 00000 n 
+0000128533 00000 n 
+0000132760 00000 n 
+0000133205 00000 n 
+0000133271 00000 n 
+0000133324 00000 n 
+0000134145 00000 n 
+0000138688 00000 n 
+0000141914 00000 n 
+0000141943 00000 n 
+0000142166 00000 n 
+0000144059 00000 n 
+0000147428 00000 n 
+trailer
+<<
+/Size 263
+/Root 37 0 R
+/Info 2 0 R
+>>
+startxref
+147491
+%%EOF
